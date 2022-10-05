@@ -191,10 +191,6 @@
     {
       "basename": "ElasticSearch",
       "path": "DWX/ElasticSearch.md"
-    },
-    {
-      "basename": "Elastic",
-      "path": "DWX/Elastic.md"
     }
   ],
   "omittedPaths": [],

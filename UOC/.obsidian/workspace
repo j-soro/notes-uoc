@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ff9901d696d33a7e",
+        "id": "ee71678f7795959c",
         "type": "leaf",
         "state": {
-          "type": "kanban",
-          "state": {
-            "file": "LOG - Lógica/Actividades.md"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -83,7 +81,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LOG - Lógica/Actividades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -95,7 +92,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LOG - Lógica/Actividades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,17 +137,17 @@
     "width": 428,
     "collapsed": true
   },
-  "active": "ff9901d696d33a7e",
+  "active": "7126268746ffba96",
   "lastOpenFiles": [
+    "0 - Inicio/0 - Inicio.md",
+    "0 - Inicio/Status.md",
+    "LOG - Lógica/Actividades.md",
     "LOG - Lógica/Recursos/Guía de estudio semanal.pdf",
     "IMI - Iniciación a las matemáticas para la ingeniería/Actividades.md",
     "AGO - Administración y gestión de organizaciones/Contenidos.md",
     "AGO - Administración y gestión de organizaciones/Evaluación.md",
     "AGO - Administración y gestión de organizaciones/Administración y gestión de organizaciones.md",
     "AGO - Administración y gestión de organizaciones/Actividades.md",
-    "AGO - Administración y gestión de organizaciones/Recursos/Reto 1 - Tipificación y análisis de una organización.pdf",
-    "AGO - Administración y gestión de organizaciones/Recursos/Bit 11.pdf",
-    "AGO - Administración y gestión de organizaciones/Recursos/Ética de la información.pdf",
-    "IMI - Iniciación a las matemáticas para la ingeniería/Contenidos.md"
+    "AGO - Administración y gestión de organizaciones/Recursos/Reto 1 - Tipificación y análisis de una organización.pdf"
   ]
 }
