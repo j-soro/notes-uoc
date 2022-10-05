@@ -1,4 +1,4 @@
-# Notes UOC
+# Notas UOC
 ## Un sistema para el estudio y organización del grado en Ingeniería Informática (UOC)
 
 La carpeta `UOC` es un Vault de Obsidian con plugins preconfigurados. No es necesario instalar nada, aunque se recomienda la familia tipográfica Iosevka. Más abajo hay dos listas de los plugins instalados.
@@ -23,53 +23,27 @@ Puedes tener este repositorio sincronizado con algún servicio de copias de segu
 + Instalar tipografías Iosevka, Iosevka Aile y Iosevka Etoile (https://github.com/be5invis/Iosevka/releases)
 + Advanced tables te permite crear tablas fácilmente; basta con escribir `| nombre_columna ` y pulsar `TAB` para crear una nueva columna, o `ENTER` para pasar a la fila siguiente.
 
-## Plugins core de Obsidian
-```json
-[
-  "file-explorer",
-  "global-search",
-  "switcher",
-  "graph",
-  "backlink",
-  "outgoing-link",
-  "tag-pane",
-  "page-preview",
-  "daily-notes",
-  "templates",
-  "note-composer",
-  "command-palette",
-  "editor-status",
-  "markdown-importer",
-  "word-count",
-  "workspaces",
-  "file-recovery"
-]
-```
+## Tutorial
 
-## Plugins de la comunidad
-```json
-[
-  "cm-editor-syntax-highlight-obsidian",
-  "obsidian-linter",
-  "note-refactor-obsidian",
-  "obsidian-outliner",
-  "url-into-selection",
-  "obsidian-reading-time",
-  "recent-files-obsidian",
-  "obsidian-emoji-toolbar",
-  "code-block-copy",
-  "obsidian-git",
-  "obsidian-style-settings",
-  "table-editor-obsidian",
-  "obsidian-kanban",
-  "calendar",
-  "obsidian-spaced-repetition",
-  "sliding-panes-obsidian",
-  "obsidian-hider",
-  "periodic-notes",
-  "obsidian-icon-folder",
-  "cmenu-plugin",
-  "folder-note-plugin",
-  "oz-image-plugin"
-]
-```
+### Organización de las asignaturas
+Cada asignatura tiene una carpeta con los siguientes apartados:
+
++ **Notas**: Carpeta donde irán tus notas/apuntes.
++ **Recursos**: Carpeta donde se encuentran los materiales de la asignatura.
++ **Actividades**: Tablero (kanban) donde encontrarás las actividades de la asignatura.
++ **Contenidos**: Nota que explica los contenidos de la asignatura, según el plan docente.
++ **Evaluación**: Nota que explica el sistema de evaluación, según el plan docente de la asignatura.
++ **Información**: Nota con información general sobre la asignatura, según el plan docente.
+
+### Calendario
+El calendario debe abrirse por defecto, también lo puedes encontrar en el panel izquierdo o abrirlo con CTRL+P -> Full Calendar. Es un calendario local que sólo contiene las fechas importantes de cada asignatura, basado en el calendario propio de la UOC.
+
+### Actividades
+Los tableros de actividades de cada asignatura pueden enlazar a una nota concreta en donde expandas la actividad en cuestión. También se puede enlazar a una nota-evento del calendario desde cualquier lugar.
+
+### Workspace layouts
+Puedes cambiar directamente al layout de una asignatura, o crear tus propios layouts, mediante el plugin Workspace Layouts. Lo encontrarás en el panel izquierdo o mediante CTRL+P -> Workspace layout.
+
+### Otros plugins
+En la configuración del programa puedes cambiar tanto los plugins propios de Obsidian como los de la comunidad para mejorar tu experiencia, quitar cosas innecesarias o buscar nuevas funcionalidades.
+
