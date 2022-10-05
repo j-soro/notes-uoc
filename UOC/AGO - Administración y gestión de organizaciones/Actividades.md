@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## Estudiar
 
-- [ ] **Estudio vinculado a PEC1 @{2022-09-30}**<br>+ Desde: 30 Sep<br>+ Hasta: 20 Oct<br>---
+- [ ] **[[Estudio vinculado a PEC1]] @{2022-09-30}**<br>+ Desde: 30 Sep<br>+ Hasta: 20 Oct<br>---
 - [ ] **Estudio vinculado a PEC2 @{2022-10-21}**<br>+ Desde: 21 Oct<br>+ Hasta: 16 Nov<br>---
 - [ ] **Estudio vinculado a PEC3 @{2022-11-17}**<br>+ Desde: 17 Nov<br>+ Hasta: 14 Dic
 - [ ] **Estudio vinculado a PEC4 @{2022-12-15}**<br><br>+ Desde: 15 Dic<br>+ Hasta: 28 Dic

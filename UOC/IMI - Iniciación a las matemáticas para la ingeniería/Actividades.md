@@ -13,7 +13,7 @@ kanban-plugin: basic
 ## Cuestionarios práctica
 
 - [ ] T1 - Números @{2022-10-11}<br>---<br>+ Inicio: 03 Oct<br>+ ### **Entrega: 11 Oct**<br>+ Solución: 15 Oct<br>+ Calificación: 15 Oct<br>---
-- [ ] T2 - Ecuaciones  @{2022-10-18}<br>---<br>+ Inicio: 10 Oct<br>+ ### **Entrega: 18 + Oct**<br>+ Solución: 22 Oct<br>+ Calificación: 22 Oct<br>---
+- [ ] T2 - Ecuaciones  @{2022-10-18}<br>---<br>+ Inicio: 10 Oct<br>+ ### **Entrega: 18 Oct**<br>+ Solución: 22 Oct<br>+ Calificación: 22 Oct<br>---
 - [ ] T3 - Sistemas de ecuaciones @{2022-10-25}<br>---<br>+ Inicio: 17 Oct<br>+ ### **Entrega: 25 Oct**<br>+ Solución: 29 Oct<br>+ Calificación: 29 Oct<br>---
 - [ ] T4 - Polinomios @{2022-11-1}<br>---<br>+ Inicio: 24 Oct<br>+ ### **Entrega: 01 Nov**<br>+ Solución: 05 Nov<br>+ Calificación: 05 Nov<br>---
 - [ ] T5 - Matrices @{2022-11-8}<br>---<br>+ Inicio: 31 Oct<br>+ ### **Entrega: 08 Nov**<br>+ Solución: 12 Nov<br>+ Calificación: 12 Nov<br>---

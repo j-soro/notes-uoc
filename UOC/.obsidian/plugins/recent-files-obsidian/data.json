@@ -1,28 +1,68 @@
 {
   "recentFiles": [
     {
-      "basename": "Actividades",
-      "path": "LOG - Lógica/Actividades.md"
+      "basename": "Tutorial",
+      "path": "Tutorial.md"
     },
     {
-      "basename": "Guía de estudio semanal",
-      "path": "LOG - Lógica/Recursos/Guía de estudio semanal.pdf"
+      "basename": "Información",
+      "path": "AGO - Administración y gestión de organizaciones/Información.md"
+    },
+    {
+      "basename": "Actividades",
+      "path": "LOG - Lógica/Actividades.md"
     },
     {
       "basename": "Actividades",
       "path": "IMI - Iniciación a las matemáticas para la ingeniería/Actividades.md"
     },
     {
-      "basename": "Contenidos",
-      "path": "AGO - Administración y gestión de organizaciones/Contenidos.md"
+      "basename": "Evaluación",
+      "path": "IMI - Iniciación a las matemáticas para la ingeniería/Evaluación.md"
+    },
+    {
+      "basename": "2022-10-11 IMI - PP T1",
+      "path": "ZZZ - Calendario/2022-10-11 IMI - PP T1.md"
+    },
+    {
+      "basename": "Actividades",
+      "path": "AGO - Administración y gestión de organizaciones/Actividades.md"
+    },
+    {
+      "basename": "2022-11-30 AGO - Debate 2",
+      "path": "ZZZ - Calendario/2022-11-30 AGO - Debate 2.md"
+    },
+    {
+      "basename": "2022-10-14 AGO - Debate 1",
+      "path": "ZZZ - Calendario/2022-10-14 AGO - Debate 1.md"
+    },
+    {
+      "basename": "2023-01-04 AGO - PEC4",
+      "path": "ZZZ - Calendario/2023-01-04 AGO - PEC4.md"
+    },
+    {
+      "basename": "2022-12-16 AGO - PEC3",
+      "path": "ZZZ - Calendario/2022-12-16 AGO - PEC3.md"
+    },
+    {
+      "basename": "2022-11-18 AGO - PEC2",
+      "path": "ZZZ - Calendario/2022-11-18 AGO - PEC2.md"
+    },
+    {
+      "basename": "2022-10-21 AGO - PEC1",
+      "path": "ZZZ - Calendario/2022-10-21 AGO - PEC1.md"
     },
     {
       "basename": "Evaluación",
       "path": "AGO - Administración y gestión de organizaciones/Evaluación.md"
     },
     {
-      "basename": "Actividades",
-      "path": "AGO - Administración y gestión de organizaciones/Actividades.md"
+      "basename": "Guía de estudio semanal",
+      "path": "LOG - Lógica/Recursos/Guía de estudio semanal.pdf"
+    },
+    {
+      "basename": "Contenidos",
+      "path": "AGO - Administración y gestión de organizaciones/Contenidos.md"
     },
     {
       "basename": "Reto 1 - Tipificación y análisis de una organización",
@@ -39,14 +79,6 @@
     {
       "basename": "Contenidos",
       "path": "IMI - Iniciación a las matemáticas para la ingeniería/Contenidos.md"
-    },
-    {
-      "basename": "Información",
-      "path": "AGO - Administración y gestión de organizaciones/Información.md"
-    },
-    {
-      "basename": "Evaluación",
-      "path": "IMI - Iniciación a las matemáticas para la ingeniería/Evaluación.md"
     },
     {
       "basename": "Información",
@@ -163,34 +195,6 @@
     {
       "basename": "Kubernetes",
       "path": "DWX/Kubernetes.md"
-    },
-    {
-      "basename": "Iniciación a las matemáticas para la ingeniería",
-      "path": "Learning/UOC/IMI - Iniciación a las matemáticas para la ingeniería/Iniciación a las matemáticas para la ingeniería.md"
-    },
-    {
-      "basename": "Pasted image 20220928095654",
-      "path": "DWX/Pasted image 20220928095654.png"
-    },
-    {
-      "basename": "Pasted image 20220928102605",
-      "path": "DWX/Pasted image 20220928102605.png"
-    },
-    {
-      "basename": "2.1 Contenedor de IoC",
-      "path": "Learning/Cursos/OW/Spring Core/2 Contenedor de IoC/2.1 Contenedor de IoC.md"
-    },
-    {
-      "basename": "2.2 Mi primer bean",
-      "path": "Learning/Cursos/OW/Spring Core/2 Contenedor de IoC/2.2 Mi primer bean.md"
-    },
-    {
-      "basename": "Lógica",
-      "path": "Learning/UOC/Lógica/Lógica.md"
-    },
-    {
-      "basename": "ElasticSearch",
-      "path": "DWX/ElasticSearch.md"
     }
   ],
   "omittedPaths": [],

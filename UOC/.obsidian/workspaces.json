@@ -1,15 +1,179 @@
 {
   "workspaces": {
-    "personal": {
+    "Calendario + tutorial + outline": {
       "main": {
         "id": "dc7ea74a8ab4118f",
         "type": "split",
         "children": [
           {
-            "id": "fecdeb4618e36cc0",
+            "id": "dc6162e5e06d75c9",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a36cbaa2bd964e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tutorial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "dc94c2e43259372b",
+        "type": "split",
+        "children": [
+          {
+            "id": "3b70bd6c6abb5fc1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7126268746ffba96",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {}
+                }
+              },
+              {
+                "id": "35ea906f06aee2a6",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#task",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "b98f0e09356a4862",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "d13c88a370ee8cab",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 437.5
+      },
+      "right": {
+        "id": "15b8ee80c6becd06",
+        "type": "split",
+        "children": [
+          {
+            "id": "aaebac7dfb3c0597",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "1f3055e13fcd06de",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Tutorial.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "ac65379371c0077f",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              },
+              {
+                "id": "260d3fffd0b648e8",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "0ac4db7e30000807",
+                "type": "leaf",
+                "state": {
+                  "type": "review-queue-list-view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "c0d1c312ae71bfb5",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Tutorial.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "2293bc04b78a0730",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Tutorial.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 5
+          }
+        ],
+        "direction": "horizontal",
+        "width": 357.5
+      },
+      "active": "9a36cbaa2bd964e9"
+    },
+    "Calendario": {
+      "main": {
+        "id": "dc7ea74a8ab4118f",
+        "type": "split",
+        "children": [
+          {
+            "id": "dc6162e5e06d75c9",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
               "state": {}
             }
           }
@@ -38,7 +202,7 @@
                 "state": {
                   "type": "search",
                   "state": {
-                    "query": "",
+                    "query": "tag:#task",
                     "matchingCase": false,
                     "explainSearch": false,
                     "collapseAll": false,
@@ -54,12 +218,21 @@
                   "type": "recent-files",
                   "state": {}
                 }
+              },
+              {
+                "id": "d13c88a370ee8cab",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
               }
             ]
           }
         ],
         "direction": "horizontal",
-        "width": 393.5
+        "width": 437.5,
+        "collapsed": true
       },
       "right": {
         "id": "15b8ee80c6becd06",
@@ -75,7 +248,6 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "DWX/Update your app.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -84,6 +256,14 @@
                     "backlinkCollapsed": false,
                     "unlinkedCollapsed": true
                   }
+                }
+              },
+              {
+                "id": "ac65379371c0077f",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
                 }
               },
               {
@@ -98,23 +278,7 @@
                 }
               },
               {
-                "id": "ac65379371c0077f",
-                "type": "leaf",
-                "state": {
-                  "type": "advanced-tables-toolbar",
-                  "state": {}
-                }
-              },
-              {
-                "id": "d4c7d5213fb2663b",
-                "type": "leaf",
-                "state": {
-                  "type": "calendar",
-                  "state": {}
-                }
-              },
-              {
-                "id": "0c1875851a4a643c",
+                "id": "0ac4db7e30000807",
                 "type": "leaf",
                 "state": {
                   "type": "review-queue-list-view",
@@ -122,44 +286,34 @@
                 }
               },
               {
-                "id": "a41778069d510b7c",
+                "id": "c0d1c312ae71bfb5",
                 "type": "leaf",
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "DWX/Update your app.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
                 }
-              }
-            ]
-          },
-          {
-            "id": "6e9f6a44b4b0c309",
-            "type": "tabs",
-            "children": [
+              },
               {
-                "id": "345523ba08798bc5",
+                "id": "2293bc04b78a0730",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "DWX/Update your app.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "outline",
+                  "state": {}
                 }
               }
-            ]
+            ],
+            "currentTab": 5
           }
         ],
         "direction": "horizontal",
-        "width": 428,
+        "width": 357.5,
         "collapsed": true
       },
-      "active": "7126268746ffba96"
+      "active": "dc6162e5e06d75c9"
     }
   },
-  "active": "personal"
+  "active": "Calendario + tutorial + outline"
 }

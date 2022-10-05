@@ -9,6 +9,8 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "showFrontmatter": true,
-  "attachmentFolderPath": "LOG - Lógica/Recursos"
+  "showFrontmatter": false,
+  "attachmentFolderPath": "LOG - Lógica/Recursos",
+  "promptDelete": true,
+  "trashOption": "system"
 }

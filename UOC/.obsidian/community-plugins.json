@@ -12,13 +12,11 @@
   "obsidian-style-settings",
   "table-editor-obsidian",
   "obsidian-kanban",
-  "calendar",
   "obsidian-spaced-repetition",
-  "sliding-panes-obsidian",
   "obsidian-hider",
   "periodic-notes",
   "obsidian-icon-folder",
-  "cmenu-plugin",
-  "folder-note-plugin",
-  "oz-image-plugin"
+  "oz-image-plugin",
+  "obsidian-full-calendar",
+  "obsidian-tasks-plugin"
 ]

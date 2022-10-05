@@ -1,0 +1,12 @@
+{
+  "calendarSources": [
+    {
+      "type": "local",
+      "color": "#1100ff",
+      "directory": "ZZZ - Calendario"
+    }
+  ],
+  "defaultCalendar": 0,
+  "recursiveLocal": true,
+  "firstDay": 1
+}

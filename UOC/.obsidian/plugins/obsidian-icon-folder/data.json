@@ -5,11 +5,11 @@
     "fontSize": 16,
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FasBook",
-      "FasUserGraduate",
-      "FasPenToSquare",
-      "FasList",
-      "FasInfo"
+      "FasQuestion",
+      "RiTaskLine",
+      "RiTaskFill",
+      "FasLightbulb",
+      "FarCalendar"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,7 @@
   "AGO - Administración y gestión de organizaciones/Evaluación.md": "FasUserGraduate",
   "AGO - Administración y gestión de organizaciones/Información.md": "FasInfo",
   "AGO - Administración y gestión de organizaciones/Recursos": "FasBook",
-  "AGO - Administración y gestión de organizaciones/Notas": "FasPenToSquare"
+  "AGO - Administración y gestión de organizaciones/Notas": "FasPenToSquare",
+  "ZZZ - Calendario": "FarCalendar",
+  "Tutorial.md": "FasQuestion"
 }
