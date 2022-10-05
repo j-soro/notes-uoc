@@ -1,0 +1,44 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FasBook",
+      "FasUserGraduate",
+      "FasPenToSquare",
+      "FasList",
+      "FasInfo"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    }
+  },
+  "IMI - Iniciación a las matemáticas para la ingeniería": "FasGraduationCap",
+  "AGO - Administración y gestión de organizaciones": "FasGraduationCap",
+  "LOG - Lógica": "FasGraduationCap",
+  "LOG - Lógica/Evaluación.md": "FasUserGraduate",
+  "LOG - Lógica/Actividades.md": "RiTaskLine",
+  "LOG - Lógica/Contenidos.md": "FasList",
+  "LOG - Lógica/Recursos": "FasBook",
+  "LOG - Lógica/Notas": "FasPenToSquare",
+  "LOG - Lógica/Información.md": "FasInfo",
+  "IMI - Iniciación a las matemáticas para la ingeniería/Actividades.md": "RiTaskLine",
+  "IMI - Iniciación a las matemáticas para la ingeniería/Contenidos.md": "FasList",
+  "IMI - Iniciación a las matemáticas para la ingeniería/Evaluación.md": "FasUserGraduate",
+  "IMI - Iniciación a las matemáticas para la ingeniería/Información.md": "FasInfo",
+  "IMI - Iniciación a las matemáticas para la ingeniería/Recursos": "FasBook",
+  "IMI - Iniciación a las matemáticas para la ingeniería/Notas": "FasPenToSquare",
+  "AGO - Administración y gestión de organizaciones/Actividades.md": "RiTaskLine",
+  "AGO - Administración y gestión de organizaciones/Contenidos.md": "FasList",
+  "AGO - Administración y gestión de organizaciones/Evaluación.md": "FasUserGraduate",
+  "AGO - Administración y gestión de organizaciones/Información.md": "FasInfo",
+  "AGO - Administración y gestión de organizaciones/Recursos": "FasBook",
+  "AGO - Administración y gestión de organizaciones/Notas": "FasPenToSquare"
+}

@@ -1,0 +1,28 @@
+{
+  "show-checkboxes": true,
+  "hide-date-in-title": true,
+  "date-colors": [
+    {
+      "isToday": false,
+      "distance": 2,
+      "unit": "days",
+      "direction": "after",
+      "backgroundColor": "rgba(255, 46, 0, 1)",
+      "color": "rgba(255, 255, 255, 1)"
+    },
+    {
+      "isToday": false,
+      "distance": 1,
+      "unit": "weeks",
+      "direction": "after",
+      "backgroundColor": "rgba(255, 240, 34, 1)"
+    },
+    {
+      "isToday": false,
+      "distance": 3,
+      "unit": "weeks",
+      "direction": "after",
+      "backgroundColor": "rgba(0, 250, 8, 0.86)"
+    }
+  ]
+}

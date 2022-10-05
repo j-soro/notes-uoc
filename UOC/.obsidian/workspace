@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "dc7ea74a8ab4118f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ff9901d696d33a7e",
+        "type": "leaf",
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "LOG - Lógica/Actividades.md"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc94c2e43259372b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b70bd6c6abb5fc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7126268746ffba96",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "35ea906f06aee2a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b98f0e09356a4862",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 483
+  },
+  "right": {
+    "id": "15b8ee80c6becd06",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaebac7dfb3c0597",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4c7d5213fb2663b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a41778069d510b7c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LOG - Lógica/Actividades.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f3055e13fcd06de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LOG - Lógica/Actividades.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ac65379371c0077f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "260d3fffd0b648e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ac4db7e30000807",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 428,
+    "collapsed": true
+  },
+  "active": "ff9901d696d33a7e",
+  "lastOpenFiles": [
+    "LOG - Lógica/Recursos/Guía de estudio semanal.pdf",
+    "IMI - Iniciación a las matemáticas para la ingeniería/Actividades.md",
+    "AGO - Administración y gestión de organizaciones/Contenidos.md",
+    "AGO - Administración y gestión de organizaciones/Evaluación.md",
+    "AGO - Administración y gestión de organizaciones/Administración y gestión de organizaciones.md",
+    "AGO - Administración y gestión de organizaciones/Actividades.md",
+    "AGO - Administración y gestión de organizaciones/Recursos/Reto 1 - Tipificación y análisis de una organización.pdf",
+    "AGO - Administración y gestión de organizaciones/Recursos/Bit 11.pdf",
+    "AGO - Administración y gestión de organizaciones/Recursos/Ética de la información.pdf",
+    "IMI - Iniciación a las matemáticas para la ingeniería/Contenidos.md"
+  ]
+}
