@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "LOG - Actividades",
+      "path": "LOG - Lógica/LOG - Actividades.md"
+    },
+    {
+      "basename": "Cómo construir enunciados",
+      "path": "Cómo construir enunciados.md"
+    },
+    {
+      "basename": "Enunciado",
+      "path": "Enunciado.md"
+    },
+    {
+      "basename": "Átomo",
+      "path": "Átomo.md"
+    },
+    {
       "basename": "2022-10-09 LOG - PP1+PEC1",
       "path": "ZZZ - Calendario/2022-10-09 LOG - PP1+PEC1.md"
+    },
+    {
+      "basename": "Conectiva",
+      "path": "Conectiva.md"
+    },
+    {
+      "basename": "Lógica de enunciados",
+      "path": "LOG - Lógica/LOG - Recursos/Lógica de enunciados.pdf"
     },
     {
       "basename": "LOG - Contenidos",
@@ -39,10 +63,6 @@
     {
       "basename": "Tutorial",
       "path": "Tutorial.md"
-    },
-    {
-      "basename": "LOG - Actividades",
-      "path": "LOG - Lógica/LOG - Actividades.md"
     },
     {
       "basename": "IMI - Evaluación",
@@ -179,26 +199,6 @@
     {
       "basename": "Guía de estudio semanal",
       "path": "Learning/UOC/Lógica/Recursos/Guía de estudio semanal.pdf"
-    },
-    {
-      "basename": "Deploy an app in Kubernetes",
-      "path": "DWX/Deploy an app in Kubernetes.md"
-    },
-    {
-      "basename": "Helm charts",
-      "path": "DWX/Helm charts.md"
-    },
-    {
-      "basename": "Scale up your app",
-      "path": "DWX/Scale up your app.md"
-    },
-    {
-      "basename": "Expose your app publicly",
-      "path": "DWX/Expose your app publicly.md"
-    },
-    {
-      "basename": "Explore your app in Kubernetes",
-      "path": "DWX/Explore your app in Kubernetes.md"
     }
   ],
   "omittedPaths": [],

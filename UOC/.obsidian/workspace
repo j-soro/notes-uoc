@@ -4,16 +4,62 @@
     "type": "split",
     "children": [
       {
-        "id": "525ee5b08db4686b",
+        "id": "a8045d9e73209b65",
         "type": "leaf",
+        "dimension": 43.50282485875706,
+        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
             "file": "ZZZ - Calendario/2022-10-09 LOG - PP1+PEC1.md",
             "mode": "source",
             "source": false
+          },
+          "pinned": true
+        }
+      },
+      {
+        "id": "d2b5b8bcd4d3d9b2",
+        "type": "leaf",
+        "dimension": 28.24858757062147,
+        "state": {
+          "type": "kanban",
+          "state": {
+            "file": "LOG - Lógica/LOG - Actividades.md"
           }
         }
+      },
+      {
+        "id": "a87807424d6f43c4",
+        "type": "split",
+        "dimension": 28.24858757062147,
+        "children": [
+          {
+            "id": "8d048562e3430065",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Átomo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "710f9c5ace11edaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Enunciado.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -86,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZZZ - Calendario/2022-10-09 LOG - PP1+PEC1.md",
+                "file": "LOG - Lógica/LOG - Actividades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZZZ - Calendario/2022-10-09 LOG - PP1+PEC1.md",
+                "file": "LOG - Lógica/LOG - Actividades.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZZZ - Calendario/2022-10-09 LOG - PP1+PEC1.md"
+                "file": "LOG - Lógica/LOG - Actividades.md"
               }
             }
           }
@@ -154,17 +200,17 @@
     "width": 357.5,
     "collapsed": true
   },
-  "active": "525ee5b08db4686b",
+  "active": "d2b5b8bcd4d3d9b2",
   "lastOpenFiles": [
-    "LOG - Lógica/LOG - Contenidos.md",
+    "Cómo construir enunciados.md",
+    "Enunciado.md",
+    "Átomo.md",
     "ZZZ - Calendario/2022-10-09 LOG - PP1+PEC1.md",
+    "Conectiva.md",
+    "LOG - Lógica/LOG - Recursos/Lógica de enunciados.pdf",
+    "LOG - Lógica/LOG - Contenidos.md",
     "LOG - Lógica/LOG - Recursos/Guía de estudio semanal.pdf",
     "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Actividades.md",
-    "AGO - Administración y gestión de organizaciones/Contenidos.md",
-    "AGO - Administración y gestión de organizaciones/AGO - Información.md",
-    "AGO - Administración y gestión de organizaciones/AGO - Evaluación.md",
-    "AGO - Administración y gestión de organizaciones/AGO - Contenidos.md",
-    "AGO - Administración y gestión de organizaciones/AGO - Actividades.md",
-    "Tutorial.md"
+    "AGO - Administración y gestión de organizaciones/Contenidos.md"
   ]
 }
