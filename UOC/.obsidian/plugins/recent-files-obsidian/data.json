@@ -1,32 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "AGO - Evaluación",
+      "path": "AGO - Administración y gestión de organizaciones/AGO - Evaluación.md"
+    },
+    {
+      "basename": "AGO - Contenidos",
+      "path": "AGO - Administración y gestión de organizaciones/AGO - Contenidos.md"
+    },
+    {
+      "basename": "AGO - Actividades",
+      "path": "AGO - Administración y gestión de organizaciones/AGO - Actividades.md"
+    },
+    {
       "basename": "Tutorial",
       "path": "Tutorial.md"
     },
     {
-      "basename": "Información",
-      "path": "AGO - Administración y gestión de organizaciones/Información.md"
+      "basename": "AGO - Información",
+      "path": "AGO - Administración y gestión de organizaciones/AGO - Información.md"
     },
     {
-      "basename": "Actividades",
-      "path": "LOG - Lógica/Actividades.md"
+      "basename": "LOG - Actividades",
+      "path": "LOG - Lógica/LOG - Actividades.md"
     },
     {
-      "basename": "Actividades",
-      "path": "IMI - Iniciación a las matemáticas para la ingeniería/Actividades.md"
+      "basename": "IMI - Actividades",
+      "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Actividades.md"
     },
     {
-      "basename": "Evaluación",
-      "path": "IMI - Iniciación a las matemáticas para la ingeniería/Evaluación.md"
+      "basename": "IMI - Evaluación",
+      "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Evaluación.md"
     },
     {
       "basename": "2022-10-11 IMI - PP T1",
       "path": "ZZZ - Calendario/2022-10-11 IMI - PP T1.md"
-    },
-    {
-      "basename": "Actividades",
-      "path": "AGO - Administración y gestión de organizaciones/Actividades.md"
     },
     {
       "basename": "2022-11-30 AGO - Debate 2",
@@ -53,56 +61,48 @@
       "path": "ZZZ - Calendario/2022-10-21 AGO - PEC1.md"
     },
     {
-      "basename": "Evaluación",
-      "path": "AGO - Administración y gestión de organizaciones/Evaluación.md"
-    },
-    {
       "basename": "Guía de estudio semanal",
-      "path": "LOG - Lógica/Recursos/Guía de estudio semanal.pdf"
-    },
-    {
-      "basename": "Contenidos",
-      "path": "AGO - Administración y gestión de organizaciones/Contenidos.md"
+      "path": "LOG - Lógica/LOG - Recursos/Guía de estudio semanal.pdf"
     },
     {
       "basename": "Reto 1 - Tipificación y análisis de una organización",
-      "path": "AGO - Administración y gestión de organizaciones/Recursos/Reto 1 - Tipificación y análisis de una organización.pdf"
+      "path": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Reto 1 - Tipificación y análisis de una organización.pdf"
     },
     {
       "basename": "Bit 11",
-      "path": "AGO - Administración y gestión de organizaciones/Recursos/Bit 11.pdf"
+      "path": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Bit 11.pdf"
     },
     {
       "basename": "Ética de la información",
-      "path": "AGO - Administración y gestión de organizaciones/Recursos/Ética de la información.pdf"
+      "path": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Ética de la información.pdf"
     },
     {
-      "basename": "Contenidos",
-      "path": "IMI - Iniciación a las matemáticas para la ingeniería/Contenidos.md"
+      "basename": "IMI - Contenidos",
+      "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Contenidos.md"
     },
     {
       "basename": "Información",
       "path": "IMI - Iniciación a las matemáticas para la ingeniería/Información.md"
     },
     {
-      "basename": "Evaluación",
-      "path": "LOG - Lógica/Evaluación.md"
+      "basename": "LOG - Evaluación",
+      "path": "LOG - Lógica/LOG - Evaluación.md"
     },
     {
-      "basename": "Contenidos",
-      "path": "LOG - Lógica/Contenidos.md"
+      "basename": "LOG - Contenidos",
+      "path": "LOG - Lógica/LOG - Contenidos.md"
     },
     {
-      "basename": "Información",
-      "path": "LOG - Lógica/Información.md"
+      "basename": "LOG - Información",
+      "path": "LOG - Lógica/LOG - Información.md"
     },
     {
       "basename": "Plan Docente",
-      "path": "LOG - Lógica/Recursos/Plan Docente.pdf"
+      "path": "LOG - Lógica/LOG - Recursos/Plan Docente.pdf"
     },
     {
       "basename": "Lógica y Álgebra de Boole",
-      "path": "LOG - Lógica/Recursos/Lógica y Álgebra de Boole.pdf"
+      "path": "LOG - Lógica/LOG - Recursos/Lógica y Álgebra de Boole.pdf"
     },
     {
       "basename": "Flutter",
