@@ -1,0 +1,113 @@
+{
+  "main": {
+    "id": "930e3db3cd00e682",
+    "type": "split",
+    "children": [
+      {
+        "id": "14b2c570321d5b83",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d4d00f1ef18a22e4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c34c9ec9e1bd59c4",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "46dc9bc8ecc97056",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "83fd256a0bf427e4",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "8c554b397ffb1444",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d7efd36331aa8ee6",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1f64cf6882df9faa",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "8f2b4c699b394892",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e501c2add9c59832",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "14b2c570321d5b83",
+  "lastOpenFiles": [
+    "AGO - Administración y gestión de organizaciones/AGO - Actividades.md",
+    "AGO - Administración y gestión de organizaciones/Contenidos.md"
+  ]
+}

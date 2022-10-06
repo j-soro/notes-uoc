@@ -1,6 +1,30 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-10-09 LOG - PP1+PEC1",
+      "path": "ZZZ - Calendario/2022-10-09 LOG - PP1+PEC1.md"
+    },
+    {
+      "basename": "LOG - Contenidos",
+      "path": "LOG - Lógica/LOG - Contenidos.md"
+    },
+    {
+      "basename": "Guía de estudio semanal",
+      "path": "LOG - Lógica/LOG - Recursos/Guía de estudio semanal.pdf"
+    },
+    {
+      "basename": "IMI - Actividades",
+      "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Actividades.md"
+    },
+    {
+      "basename": "Contenidos",
+      "path": "AGO - Administración y gestión de organizaciones/Contenidos.md"
+    },
+    {
+      "basename": "AGO - Información",
+      "path": "AGO - Administración y gestión de organizaciones/AGO - Información.md"
+    },
+    {
       "basename": "AGO - Evaluación",
       "path": "AGO - Administración y gestión de organizaciones/AGO - Evaluación.md"
     },
@@ -17,16 +41,8 @@
       "path": "Tutorial.md"
     },
     {
-      "basename": "AGO - Información",
-      "path": "AGO - Administración y gestión de organizaciones/AGO - Información.md"
-    },
-    {
       "basename": "LOG - Actividades",
       "path": "LOG - Lógica/LOG - Actividades.md"
-    },
-    {
-      "basename": "IMI - Actividades",
-      "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Actividades.md"
     },
     {
       "basename": "IMI - Evaluación",
@@ -61,10 +77,6 @@
       "path": "ZZZ - Calendario/2022-10-21 AGO - PEC1.md"
     },
     {
-      "basename": "Guía de estudio semanal",
-      "path": "LOG - Lógica/LOG - Recursos/Guía de estudio semanal.pdf"
-    },
-    {
       "basename": "Reto 1 - Tipificación y análisis de una organización",
       "path": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Reto 1 - Tipificación y análisis de una organización.pdf"
     },
@@ -87,10 +99,6 @@
     {
       "basename": "LOG - Evaluación",
       "path": "LOG - Lógica/LOG - Evaluación.md"
-    },
-    {
-      "basename": "LOG - Contenidos",
-      "path": "LOG - Lógica/LOG - Contenidos.md"
     },
     {
       "basename": "LOG - Información",
@@ -191,10 +199,6 @@
     {
       "basename": "Explore your app in Kubernetes",
       "path": "DWX/Explore your app in Kubernetes.md"
-    },
-    {
-      "basename": "Kubernetes",
-      "path": "DWX/Kubernetes.md"
     }
   ],
   "omittedPaths": [],

@@ -4,20 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "dc6162e5e06d75c9",
-        "type": "leaf",
-        "state": {
-          "type": "full-calendar-view",
-          "state": {}
-        }
-      },
-      {
-        "id": "714d2734047016c2",
+        "id": "525ee5b08db4686b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "AGO - Administración y gestión de organizaciones/AGO - Evaluación.md",
+            "file": "ZZZ - Calendario/2022-10-09 LOG - PP1+PEC1.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 437.5
+    "width": 437.5,
+    "collapsed": true
   },
   "right": {
     "id": "15b8ee80c6becd06",
@@ -93,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AGO - Administración y gestión de organizaciones/AGO - Evaluación.md",
+                "file": "ZZZ - Calendario/2022-10-09 LOG - PP1+PEC1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AGO - Administración y gestión de organizaciones/AGO - Evaluación.md",
+                "file": "ZZZ - Calendario/2022-10-09 LOG - PP1+PEC1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AGO - Administración y gestión de organizaciones/AGO - Evaluación.md"
+                "file": "ZZZ - Calendario/2022-10-09 LOG - PP1+PEC1.md"
               }
             }
           }
@@ -161,17 +154,17 @@
     "width": 357.5,
     "collapsed": true
   },
-  "active": "7126268746ffba96",
+  "active": "525ee5b08db4686b",
   "lastOpenFiles": [
+    "LOG - Lógica/LOG - Contenidos.md",
+    "ZZZ - Calendario/2022-10-09 LOG - PP1+PEC1.md",
+    "LOG - Lógica/LOG - Recursos/Guía de estudio semanal.pdf",
+    "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Actividades.md",
+    "AGO - Administración y gestión de organizaciones/Contenidos.md",
+    "AGO - Administración y gestión de organizaciones/AGO - Información.md",
+    "AGO - Administración y gestión de organizaciones/AGO - Evaluación.md",
     "AGO - Administración y gestión de organizaciones/AGO - Contenidos.md",
     "AGO - Administración y gestión de organizaciones/AGO - Actividades.md",
-    "Tutorial.md",
-    "AGO - Administración y gestión de organizaciones/AGO - Información.md",
-    "Notas rápidas.md",
-    "Tasks.md",
-    "2022-10.md",
-    "Bienvenid@!.jpg",
-    "AAA - Nota general.md",
-    "Estudio vinculado a PEC1.md"
+    "Tutorial.md"
   ]
 }
