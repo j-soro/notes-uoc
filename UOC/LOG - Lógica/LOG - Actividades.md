@@ -6,7 +6,7 @@ kanban-plugin: basic
 
 ## Actividades evaluables
 
-- [ ] PP 1 + PEC 1 @{2022-10-09}<br>---<br>+ ### **Entrega: 09 Oct**<br>+ Cierre: 18 Oct<br>+ Solución: 21 Oct<br>+ Notas PEC: 25 Nov<br>---
+- [ ] [[2022-10-09 LOG - PP1+PEC1| PP 1 + PEC 1]] @{2022-10-09}<br>---<br>+ ### **Entrega: 09 Oct**<br>+ Cierre: 18 Oct<br>+ Solución: 21 Oct<br>+ Notas PEC: 25 Nov<br>---
 - [ ] PP 2 + PEC 2 @{2022-10-23}<br>---<br>+ ### **Entrega: 23 Oct**<br>+ Cierre: 25 Oct<br>+ Solución: 28 Oct<br>+ Notas PEC: 01 Nov<br>---
 - [ ] PP 3 + PEC 3 @{2022-11-13}<br>---<br>+ ### **Entrega: 13 Nov**<br>+ Cierre: 15 Nov <br>+ Solución: 18 Nov<br>+ Notas PEC: 22 Nov<br>---
 - [ ] PP 4 + PEC 4 @{2022-11-27}<br>---<br>+ ### **Entrega: 27 Nov**<br>+ Cierre: 29 Nov <br>+ Solución: 02 Dic<br>+ Notas PEC: 06 Dic<br>---

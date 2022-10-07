@@ -6,7 +6,7 @@
       {
         "id": "a8045d9e73209b65",
         "type": "leaf",
-        "dimension": 43.50282485875706,
+        "dimension": 13.776559287183003,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -19,20 +19,33 @@
         }
       },
       {
+        "id": "9cce9d27717204fd",
+        "type": "leaf",
+        "dimension": 13.708019191226866,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Formalización.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      },
+      {
         "id": "d2b5b8bcd4d3d9b2",
         "type": "leaf",
-        "dimension": 28.24858757062147,
+        "dimension": 45.92186429061,
         "state": {
-          "type": "kanban",
+          "type": "pdf",
           "state": {
-            "file": "LOG - Lógica/LOG - Actividades.md"
+            "file": "LOG - Lógica/LOG - Recursos/Lógica de enunciados.pdf"
           }
         }
       },
       {
         "id": "a87807424d6f43c4",
         "type": "split",
-        "dimension": 28.24858757062147,
+        "dimension": 26.593557230980117,
         "children": [
           {
             "id": "8d048562e3430065",
@@ -132,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LOG - Lógica/LOG - Actividades.md",
+                "file": "Formalización.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LOG - Lógica/LOG - Actividades.md",
+                "file": "Formalización.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LOG - Lógica/LOG - Actividades.md"
+                "file": "Formalización.md"
               }
             }
           }
@@ -200,17 +213,17 @@
     "width": 357.5,
     "collapsed": true
   },
-  "active": "d2b5b8bcd4d3d9b2",
+  "active": "9cce9d27717204fd",
   "lastOpenFiles": [
+    "ZZZ - Calendario/2022-10-09 LOG - PP1+PEC1.md",
+    "Formalización.md",
+    "Conclusión putativa.md",
+    "LOG - Lógica/LOG - Recursos/Lógica de enunciados.pdf",
+    "LOG - Lógica/LOG - Actividades.md",
     "Cómo construir enunciados.md",
     "Enunciado.md",
     "Átomo.md",
-    "ZZZ - Calendario/2022-10-09 LOG - PP1+PEC1.md",
     "Conectiva.md",
-    "LOG - Lógica/LOG - Recursos/Lógica de enunciados.pdf",
-    "LOG - Lógica/LOG - Contenidos.md",
-    "LOG - Lógica/LOG - Recursos/Guía de estudio semanal.pdf",
-    "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Actividades.md",
-    "AGO - Administración y gestión de organizaciones/Contenidos.md"
+    "LOG - Lógica/LOG - Contenidos.md"
   ]
 }

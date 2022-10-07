@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Formalización",
+      "path": "Formalización.md"
+    },
+    {
+      "basename": "2022-10-09 LOG - PP1+PEC1",
+      "path": "ZZZ - Calendario/2022-10-09 LOG - PP1+PEC1.md"
+    },
+    {
+      "basename": "Conclusión putativa",
+      "path": "Conclusión putativa.md"
+    },
+    {
+      "basename": "Lógica de enunciados",
+      "path": "LOG - Lógica/LOG - Recursos/Lógica de enunciados.pdf"
+    },
+    {
       "basename": "LOG - Actividades",
       "path": "LOG - Lógica/LOG - Actividades.md"
     },
@@ -17,16 +33,8 @@
       "path": "Átomo.md"
     },
     {
-      "basename": "2022-10-09 LOG - PP1+PEC1",
-      "path": "ZZZ - Calendario/2022-10-09 LOG - PP1+PEC1.md"
-    },
-    {
       "basename": "Conectiva",
       "path": "Conectiva.md"
-    },
-    {
-      "basename": "Lógica de enunciados",
-      "path": "LOG - Lógica/LOG - Recursos/Lógica de enunciados.pdf"
     },
     {
       "basename": "LOG - Contenidos",
@@ -191,14 +199,6 @@
     {
       "basename": "Números",
       "path": "Learning/UOC/IMI - Iniciación a las matemáticas para la ingeniería/Recursos/Números.pdf"
-    },
-    {
-      "basename": "Administración y gestión de organizaciones",
-      "path": "Learning/UOC/AGO - Administración y gestión de organizaciones/Administración y gestión de organizaciones.md"
-    },
-    {
-      "basename": "Guía de estudio semanal",
-      "path": "Learning/UOC/Lógica/Recursos/Guía de estudio semanal.pdf"
     }
   ],
   "omittedPaths": [],
