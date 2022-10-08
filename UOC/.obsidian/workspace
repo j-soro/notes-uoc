@@ -6,7 +6,7 @@
       {
         "id": "a8045d9e73209b65",
         "type": "leaf",
-        "dimension": 19.008935824532898,
+        "dimension": 22.026431718061676,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -19,13 +19,13 @@
         }
       },
       {
-        "id": "2d993f3042755a04",
+        "id": "83c3993fd0654b80",
         "type": "leaf",
-        "dimension": 9.504467912266449,
+        "dimension": 22.026431718061676,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Cómo construir enunciados.md",
+            "file": "Tipos de condiciones.md",
             "mode": "source",
             "source": false
           }
@@ -34,7 +34,7 @@
       {
         "id": "d2b5b8bcd4d3d9b2",
         "type": "leaf",
-        "dimension": 71.48659626320065,
+        "dimension": 55.947136563876654,
         "state": {
           "type": "pdf",
           "state": {
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cómo construir enunciados.md",
+                "file": "Tipos de condiciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cómo construir enunciados.md",
+                "file": "Tipos de condiciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cómo construir enunciados.md"
+                "file": "Tipos de condiciones.md"
               }
             }
           }
@@ -181,17 +181,17 @@
     "width": 357.5,
     "collapsed": true
   },
-  "active": "2d993f3042755a04",
+  "active": "83c3993fd0654b80",
   "lastOpenFiles": [
-    "LOG - Lógica/LOG - Recursos/Guía de estudio semanal.pdf",
-    "Cómo construir enunciados.md",
     "ZZZ - Calendario/2022-10-09 LOG - PP1+PEC1.md",
+    "Tipos de condiciones.md",
+    "Condición suficiente.md",
+    "Condición necesaria.md",
+    "Cómo construir enunciados.md",
+    "LOG - Lógica/LOG - Contenidos.md",
+    "LOG - Lógica/LOG - Recursos/Guía de estudio semanal.pdf",
     "Enunciado.md",
     "Átomo.md",
-    "Formalización.md",
-    "Conclusión putativa.md",
-    "LOG - Lógica/LOG - Recursos/Lógica de enunciados.pdf",
-    "LOG - Lógica/LOG - Actividades.md",
-    "Conectiva.md"
+    "Formalización.md"
   ]
 }

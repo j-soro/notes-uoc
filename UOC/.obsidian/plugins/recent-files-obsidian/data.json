@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Cómo construir enunciados",
-      "path": "Cómo construir enunciados.md"
-    },
-    {
-      "basename": "Guía de estudio semanal",
-      "path": "LOG - Lógica/LOG - Recursos/Guía de estudio semanal.pdf"
+      "basename": "Tipos de condiciones",
+      "path": "Tipos de condiciones.md"
     },
     {
       "basename": "2022-10-09 LOG - PP1+PEC1",
       "path": "ZZZ - Calendario/2022-10-09 LOG - PP1+PEC1.md"
+    },
+    {
+      "basename": "Condición suficiente",
+      "path": "Condición suficiente.md"
+    },
+    {
+      "basename": "Cómo construir enunciados",
+      "path": "Cómo construir enunciados.md"
+    },
+    {
+      "basename": "LOG - Contenidos",
+      "path": "LOG - Lógica/LOG - Contenidos.md"
+    },
+    {
+      "basename": "Guía de estudio semanal",
+      "path": "LOG - Lógica/LOG - Recursos/Guía de estudio semanal.pdf"
     },
     {
       "basename": "Enunciado",
@@ -39,10 +51,6 @@
     {
       "basename": "Conectiva",
       "path": "Conectiva.md"
-    },
-    {
-      "basename": "LOG - Contenidos",
-      "path": "LOG - Lógica/LOG - Contenidos.md"
     },
     {
       "basename": "IMI - Actividades",
@@ -187,18 +195,6 @@
     {
       "basename": "Kanban",
       "path": "Kanban.md"
-    },
-    {
-      "basename": "Pending music",
-      "path": "Personal/Pending music.md"
-    },
-    {
-      "basename": "Books",
-      "path": "Personal/Books.md"
-    },
-    {
-      "basename": "Números",
-      "path": "Learning/UOC/IMI - Iniciación a las matemáticas para la ingeniería/Recursos/Números.pdf"
     }
   ],
   "omittedPaths": [],
