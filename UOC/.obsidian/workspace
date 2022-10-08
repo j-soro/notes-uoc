@@ -6,7 +6,7 @@
       {
         "id": "a8045d9e73209b65",
         "type": "leaf",
-        "dimension": 13.776559287183003,
+        "dimension": 19.008935824532898,
         "pinned": true,
         "state": {
           "type": "markdown",
@@ -19,13 +19,13 @@
         }
       },
       {
-        "id": "9cce9d27717204fd",
+        "id": "2d993f3042755a04",
         "type": "leaf",
-        "dimension": 13.708019191226866,
+        "dimension": 9.504467912266449,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Formalización.md",
+            "file": "Cómo construir enunciados.md",
             "mode": "source",
             "source": false
           }
@@ -34,45 +34,13 @@
       {
         "id": "d2b5b8bcd4d3d9b2",
         "type": "leaf",
-        "dimension": 45.92186429061,
+        "dimension": 71.48659626320065,
         "state": {
           "type": "pdf",
           "state": {
             "file": "LOG - Lógica/LOG - Recursos/Lógica de enunciados.pdf"
           }
         }
-      },
-      {
-        "id": "a87807424d6f43c4",
-        "type": "split",
-        "dimension": 26.593557230980117,
-        "children": [
-          {
-            "id": "8d048562e3430065",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Átomo.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "710f9c5ace11edaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Enunciado.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -145,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formalización.md",
+                "file": "Cómo construir enunciados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formalización.md",
+                "file": "Cómo construir enunciados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Formalización.md"
+                "file": "Cómo construir enunciados.md"
               }
             }
           }
@@ -213,17 +181,17 @@
     "width": 357.5,
     "collapsed": true
   },
-  "active": "9cce9d27717204fd",
+  "active": "2d993f3042755a04",
   "lastOpenFiles": [
+    "LOG - Lógica/LOG - Recursos/Guía de estudio semanal.pdf",
+    "Cómo construir enunciados.md",
     "ZZZ - Calendario/2022-10-09 LOG - PP1+PEC1.md",
+    "Enunciado.md",
+    "Átomo.md",
     "Formalización.md",
     "Conclusión putativa.md",
     "LOG - Lógica/LOG - Recursos/Lógica de enunciados.pdf",
     "LOG - Lógica/LOG - Actividades.md",
-    "Cómo construir enunciados.md",
-    "Enunciado.md",
-    "Átomo.md",
-    "Conectiva.md",
-    "LOG - Lógica/LOG - Contenidos.md"
+    "Conectiva.md"
   ]
 }
