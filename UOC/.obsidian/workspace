@@ -4,28 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "a8045d9e73209b65",
+        "id": "63b2e37048879429",
         "type": "leaf",
-        "dimension": 49.99999999999999,
-        "pinned": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ZZZ - Calendario/2022-10-09 LOG - PP1+PEC1.md",
-            "mode": "source",
-            "source": false
-          },
-          "pinned": true
-        }
-      },
-      {
-        "id": "8932f023851db0c0",
-        "type": "leaf",
-        "dimension": 49.99999999999999,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "LOG - Lógica/LOG - Notas/Tipos de condiciones.md",
+            "file": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Notas/1 - Números.md",
             "mode": "source",
             "source": false
           }
@@ -102,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZZZ - Calendario/2022-10-09 LOG - PP1+PEC1.md",
+                "file": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Notas/1 - Números.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZZZ - Calendario/2022-10-09 LOG - PP1+PEC1.md",
+                "file": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Notas/1 - Números.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZZZ - Calendario/2022-10-09 LOG - PP1+PEC1.md"
+                "file": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Notas/1 - Números.md"
               }
             }
           }
@@ -170,17 +154,17 @@
     "width": 357.5,
     "collapsed": true
   },
-  "active": "a8045d9e73209b65",
+  "active": "63b2e37048879429",
   "lastOpenFiles": [
+    "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Notas/Consejos para los cuestionarios.md",
+    "ZZZ - Calendario/2022-10-11 IMI - PP T1.md",
+    "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Contenidos.md",
+    "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Actividades.md",
+    "ZZZ - Calendario/2022-11-15 IMI - PEC1.md",
+    "ZZZ - Calendario/2022-10-09 LOG - PP1+PEC1.md",
+    "LOG - Lógica/LOG - Evaluación.md",
     "LOG - Lógica/LOG - Notas/Tipos de condiciones.md",
     "LOG - Lógica/LOG - Recursos/Lógica de enunciados.pdf",
-    "Formalización de frases complejas.md",
-    "ZZZ - Calendario/2022-10-09 LOG - PP1+PEC1.md",
-    "LOG - Lógica/LOG - Recursos/Guía de estudio semanal.pdf",
-    "Condición suficiente.md",
-    "Condición necesaria.md",
-    "LOG - Lógica/LOG - Notas/Cómo construir enunciados.md",
-    "LOG - Lógica/LOG - Contenidos.md",
-    "LOG - Lógica/LOG - Notas/Enunciado.md"
+    "LOG - Lógica/LOG - Notas/Formalización de frases complejas.md"
   ]
 }

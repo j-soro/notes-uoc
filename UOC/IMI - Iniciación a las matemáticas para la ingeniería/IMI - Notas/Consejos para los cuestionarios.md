@@ -1,0 +1,12 @@
+# Consejos para los cuestionarios
+En aquellas preguntas en las que tengáis que escribir en la respuesta una variable (o, en general, todas las expresiones o valores que se representan de modo general mediante letras), debéis recordar que éstas van en minúscula y se escriben mediante el teclado. A título de ejemplo, si debemos introducir la variable “x” en nuestra respuesta, ésta será la x que podemos introducir mediante el teclado. No debéis confundirla con la x que viene incorporada en CalcMe, ya que ésta se corresponde con la operación producto.
+
+1.  Al escribir números con decimales, debemos usar como separador decimal el punto y no la coma. Por ejemplo, 12.44 en lugar de 12’44.
+2.  Si una pregunta requiere que se responda mediante un valor exacto, no debemos aproximar dicho valor. Esto se suele dar cuando una respuesta se corresponde con la raíz de un número o con una fracción. En este caso se debe introducir la respuesta de modo exacto (lo más simplificada posible) y no aproximarla obteniendo su expresión con decimales.
+3.  En aquellos casos en los que debemos indicar que realizamos la multiplicación entre varios números, entonces se debe emplear el punto medio “·”. Nunca debéis usar para este fin ni “.” ni “*”. A título de ejemplo, 3·4=12 en lugar de 3.4=12 o 3*4=12.
+4.  En aquellos casos en los que las respuestas llevan asociada una “Notación de respuesta”, debéis hacer caso a las indicaciones que en ella se dan y evitar introducir la respuesta de cualquier otra forma.
+5.  La entrega del cuestionario se debe hacer con suficiente tiempo de antelación. Evitad realizar la entrega en el último minuto y, así, no correréis el riesgo de que el cuestionario se cierre sólo (a la hora de cierre programada) y no se hayan guardado todas las respuestas o cambios introducidos.
+6.  En las respuestas a las preguntas 6 de los cuestionarios de evaluación:
+    1.  Se debe emplear el editor de fórmulas incluido en CalcMe (Mathtype) para llevar a cabo las argumentaciones y desarrollos mencionados.
+    2.  No debéis incluir imágenes o documentos con el objetivo de evitar, así, la inclusión de las fórmulas a través del editor de CalcMe, ya que esto produce un error al enviar el cuestionario.
+    3.  No debéis incluir, mediante copiado y pegado, fórmulas editadas con otros editores debido a que también se produce un error al enviar el cuestionario.

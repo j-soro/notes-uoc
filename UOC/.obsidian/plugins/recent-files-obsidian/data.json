@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "1 - Números",
+      "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Notas/1 - Números.md"
+    },
+    {
+      "basename": "Consejos para los cuestionarios",
+      "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Notas/Consejos para los cuestionarios.md"
+    },
+    {
+      "basename": "2022-10-11 IMI - PP T1",
+      "path": "ZZZ - Calendario/2022-10-11 IMI - PP T1.md"
+    },
+    {
+      "basename": "IMI - Contenidos",
+      "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Contenidos.md"
+    },
+    {
+      "basename": "IMI - Actividades",
+      "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Actividades.md"
+    },
+    {
+      "basename": "2022-11-15 IMI - PEC1",
+      "path": "ZZZ - Calendario/2022-11-15 IMI - PEC1.md"
+    },
+    {
       "basename": "2022-10-09 LOG - PP1+PEC1",
       "path": "ZZZ - Calendario/2022-10-09 LOG - PP1+PEC1.md"
+    },
+    {
+      "basename": "LOG - Evaluación",
+      "path": "LOG - Lógica/LOG - Evaluación.md"
     },
     {
       "basename": "Tipos de condiciones",
@@ -14,7 +42,7 @@
     },
     {
       "basename": "Formalización de frases complejas",
-      "path": "Formalización de frases complejas.md"
+      "path": "LOG - Lógica/LOG - Notas/Formalización de frases complejas.md"
     },
     {
       "basename": "Guía de estudio semanal",
@@ -53,10 +81,6 @@
       "path": "LOG - Lógica/LOG - Notas/Conectiva.md"
     },
     {
-      "basename": "IMI - Actividades",
-      "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Actividades.md"
-    },
-    {
       "basename": "Contenidos",
       "path": "AGO - Administración y gestión de organizaciones/Contenidos.md"
     },
@@ -83,10 +107,6 @@
     {
       "basename": "IMI - Evaluación",
       "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Evaluación.md"
-    },
-    {
-      "basename": "2022-10-11 IMI - PP T1",
-      "path": "ZZZ - Calendario/2022-10-11 IMI - PP T1.md"
     },
     {
       "basename": "2022-11-30 AGO - Debate 2",
@@ -125,16 +145,8 @@
       "path": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Ética de la información.pdf"
     },
     {
-      "basename": "IMI - Contenidos",
-      "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Contenidos.md"
-    },
-    {
       "basename": "Información",
       "path": "IMI - Iniciación a las matemáticas para la ingeniería/Información.md"
-    },
-    {
-      "basename": "LOG - Evaluación",
-      "path": "LOG - Lógica/LOG - Evaluación.md"
     },
     {
       "basename": "LOG - Información",
@@ -187,14 +199,6 @@
     {
       "basename": "Project ideas",
       "path": "Project ideas.md"
-    },
-    {
-      "basename": "CV advice",
-      "path": "CV advice.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "Kanban.md"
     }
   ],
   "omittedPaths": [],

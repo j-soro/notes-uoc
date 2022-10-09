@@ -6,13 +6,13 @@ kanban-plugin: basic
 
 ## Actividades evaluables
 
-- [ ] PEC 1 @{2022-11-15}<br>---<br>+ Inicio: 03 Oct<br>+ ### **Entrega: 15 Nov**<br>+ Solución: 19 Oct<br>+ Calificación: 22 Oct<br>---
+- [ ] [[2022-11-15 IMI - PEC1| PEC 1]] @{2022-11-15}<br>---<br>+ Inicio: 03 Oct<br>+ ### **Entrega: 15 Nov**<br>+ Solución: 19 Oct<br>+ Calificación: 22 Oct<br>---
 - [ ] PEC 2 @{2023-01-22}<br>---<br>+ Inicio: 14 Nov<br>+ ### **Entrega: 22 Ene**<br>+ Solución: 24 Ene<br>+ Calificación: 29 Ene<br>---
 
 
 ## Cuestionarios práctica
 
-- [ ] T1 - Números @{2022-10-11}<br>---<br>+ Inicio: 03 Oct<br>+ ### **Entrega: 11 Oct**<br>+ Solución: 15 Oct<br>+ Calificación: 15 Oct<br>---
+- [ ] [[2022-10-11 IMI - PP T1|T1 - Números]] @{2022-10-11}<br>---<br>+ Inicio: 03 Oct<br>+ ### **Entrega: 11 Oct**<br>+ Solución: 15 Oct<br>+ Calificación: 15 Oct<br>---
 - [ ] T2 - Ecuaciones  @{2022-10-18}<br>---<br>+ Inicio: 10 Oct<br>+ ### **Entrega: 18 Oct**<br>+ Solución: 22 Oct<br>+ Calificación: 22 Oct<br>---
 - [ ] T3 - Sistemas de ecuaciones @{2022-10-25}<br>---<br>+ Inicio: 17 Oct<br>+ ### **Entrega: 25 Oct**<br>+ Solución: 29 Oct<br>+ Calificación: 29 Oct<br>---
 - [ ] T4 - Polinomios @{2022-11-1}<br>---<br>+ Inicio: 24 Oct<br>+ ### **Entrega: 01 Nov**<br>+ Solución: 05 Nov<br>+ Calificación: 05 Nov<br>---
