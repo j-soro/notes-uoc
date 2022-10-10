@@ -5,28 +5,80 @@
       "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Notas/1 - Números.md"
     },
     {
+      "basename": "Consejos para los cuestionarios",
+      "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Notas/Consejos para los cuestionarios.md"
+    },
+    {
+      "basename": "2022-10-11 IMI - PP T1",
+      "path": "ZZZ - Calendario/2022-10-11 IMI - PP T1.md"
+    },
+    {
+      "basename": "IMI - Contenidos",
+      "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Contenidos.md"
+    },
+    {
       "basename": "IMI - Actividades",
       "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Actividades.md"
     },
     {
-      "basename": "Números",
-      "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Recursos/Números.pdf"
+      "basename": "2022-11-15 IMI - PEC1",
+      "path": "ZZZ - Calendario/2022-11-15 IMI - PEC1.md"
+    },
+    {
+      "basename": "2022-10-09 LOG - PP1+PEC1",
+      "path": "ZZZ - Calendario/2022-10-09 LOG - PP1+PEC1.md"
+    },
+    {
+      "basename": "LOG - Evaluación",
+      "path": "LOG - Lógica/LOG - Evaluación.md"
+    },
+    {
+      "basename": "Tipos de condiciones",
+      "path": "LOG - Lógica/LOG - Notas/Tipos de condiciones.md"
     },
     {
       "basename": "Lógica de enunciados",
       "path": "LOG - Lógica/LOG - Recursos/Lógica de enunciados.pdf"
     },
     {
-      "basename": "LOG - Actividades",
-      "path": "LOG - Lógica/LOG - Actividades.md"
+      "basename": "Formalización de frases complejas",
+      "path": "LOG - Lógica/LOG - Notas/Formalización de frases complejas.md"
+    },
+    {
+      "basename": "Guía de estudio semanal",
+      "path": "LOG - Lógica/LOG - Recursos/Guía de estudio semanal.pdf"
+    },
+    {
+      "basename": "Cómo construir enunciados",
+      "path": "LOG - Lógica/LOG - Notas/Cómo construir enunciados.md"
     },
     {
       "basename": "LOG - Contenidos",
       "path": "LOG - Lógica/LOG - Contenidos.md"
     },
     {
-      "basename": "Guía de estudio semanal",
-      "path": "LOG - Lógica/LOG - Recursos/Guía de estudio semanal.pdf"
+      "basename": "Enunciado",
+      "path": "LOG - Lógica/LOG - Notas/Enunciado.md"
+    },
+    {
+      "basename": "Átomo",
+      "path": "LOG - Lógica/LOG - Notas/Átomo.md"
+    },
+    {
+      "basename": "Formalización",
+      "path": "LOG - Lógica/LOG - Notas/Formalización.md"
+    },
+    {
+      "basename": "Conclusión putativa",
+      "path": "LOG - Lógica/LOG - Notas/Conclusión putativa.md"
+    },
+    {
+      "basename": "LOG - Actividades",
+      "path": "LOG - Lógica/LOG - Actividades.md"
+    },
+    {
+      "basename": "Conectiva",
+      "path": "LOG - Lógica/LOG - Notas/Conectiva.md"
     },
     {
       "basename": "Contenidos",
@@ -55,10 +107,6 @@
     {
       "basename": "IMI - Evaluación",
       "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Evaluación.md"
-    },
-    {
-      "basename": "2022-10-11 IMI - PP T1",
-      "path": "ZZZ - Calendario/2022-10-11 IMI - PP T1.md"
     },
     {
       "basename": "2022-11-30 AGO - Debate 2",
@@ -97,16 +145,8 @@
       "path": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Ética de la información.pdf"
     },
     {
-      "basename": "IMI - Contenidos",
-      "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Contenidos.md"
-    },
-    {
       "basename": "Información",
       "path": "IMI - Iniciación a las matemáticas para la ingeniería/Información.md"
-    },
-    {
-      "basename": "LOG - Evaluación",
-      "path": "LOG - Lógica/LOG - Evaluación.md"
     },
     {
       "basename": "LOG - Información",
@@ -159,34 +199,6 @@
     {
       "basename": "Project ideas",
       "path": "Project ideas.md"
-    },
-    {
-      "basename": "CV advice",
-      "path": "CV advice.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "Kanban.md"
-    },
-    {
-      "basename": "Pending music",
-      "path": "Personal/Pending music.md"
-    },
-    {
-      "basename": "Books",
-      "path": "Personal/Books.md"
-    },
-    {
-      "basename": "Números",
-      "path": "Learning/UOC/IMI - Iniciación a las matemáticas para la ingeniería/Recursos/Números.pdf"
-    },
-    {
-      "basename": "Administración y gestión de organizaciones",
-      "path": "Learning/UOC/AGO - Administración y gestión de organizaciones/Administración y gestión de organizaciones.md"
-    },
-    {
-      "basename": "Guía de estudio semanal",
-      "path": "Learning/UOC/Lógica/Recursos/Guía de estudio semanal.pdf"
     }
   ],
   "omittedPaths": [],

@@ -6,12 +6,24 @@
       {
         "id": "63b2e37048879429",
         "type": "leaf",
+        "dimension": 26.01626016260163,
         "state": {
           "type": "markdown",
           "state": {
             "file": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Notas/1 - Números.md",
             "mode": "source",
             "source": false
+          }
+        }
+      },
+      {
+        "id": "3233a2385032bddc",
+        "type": "leaf",
+        "dimension": 73.98373983739837,
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Recursos/Números.pdf"
           }
         }
       }
@@ -156,15 +168,15 @@
   },
   "active": "63b2e37048879429",
   "lastOpenFiles": [
+    "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Actividades.md",
+    "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Notas/1 - Números.md",
+    "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Recursos/Números.pdf",
     "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Notas/Consejos para los cuestionarios.md",
     "ZZZ - Calendario/2022-10-11 IMI - PP T1.md",
     "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Contenidos.md",
-    "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Actividades.md",
     "ZZZ - Calendario/2022-11-15 IMI - PEC1.md",
     "ZZZ - Calendario/2022-10-09 LOG - PP1+PEC1.md",
     "LOG - Lógica/LOG - Evaluación.md",
-    "LOG - Lógica/LOG - Notas/Tipos de condiciones.md",
-    "LOG - Lógica/LOG - Recursos/Lógica de enunciados.pdf",
-    "LOG - Lógica/LOG - Notas/Formalización de frases complejas.md"
+    "LOG - Lógica/LOG - Notas/Tipos de condiciones.md"
   ]
 }
