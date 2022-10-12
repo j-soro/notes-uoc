@@ -22,7 +22,7 @@ kanban-plugin: basic
 
 ## Debates
 
-- [ ] **Debate 1 @{2022-10-06}**<br><br>+ Inicio: 06 Oct<br>+ Final: 14 Oct
+- [ ] **[[Debate 1]] @{2022-10-06}**<br><br>+ Inicio: 06 Oct<br>+ Final: 14 Oct
 - [ ] **Debate 2 @{2022-11-22}**<br>+ Inicio: 22 Nov<br>+ Final: 30 Nov
 
 
