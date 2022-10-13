@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "2022-10-18 IMI - PP T2",
+      "path": "ZZZ - Calendario/2022-10-18 IMI - PP T2.md"
+    },
+    {
+      "basename": "Ecuaciones",
+      "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Recursos/Ecuaciones.pdf"
+    },
+    {
+      "basename": "IMI - Actividades",
+      "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Actividades.md"
+    },
+    {
+      "basename": "1 - Números",
+      "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Notas/1 - Números.md"
+    },
+    {
       "basename": "Organización",
       "path": "Organización.md"
     },
@@ -39,14 +55,6 @@
     {
       "basename": "Números",
       "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Recursos/Números.pdf"
-    },
-    {
-      "basename": "1 - Números",
-      "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Notas/1 - Números.md"
-    },
-    {
-      "basename": "IMI - Actividades",
-      "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Actividades.md"
     },
     {
       "basename": "IMI - Evaluación",
@@ -191,14 +199,6 @@
     {
       "basename": "Kanban",
       "path": "Kanban.md"
-    },
-    {
-      "basename": "Pending music",
-      "path": "Personal/Pending music.md"
-    },
-    {
-      "basename": "Books",
-      "path": "Personal/Books.md"
     }
   ],
   "omittedPaths": [],
