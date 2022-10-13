@@ -12,5 +12,6 @@
   "showFrontmatter": false,
   "attachmentFolderPath": "LOG - Lógica/Recursos",
   "promptDelete": true,
-  "trashOption": "system"
+  "trashOption": "system",
+  "showInlineTitle": false
 }

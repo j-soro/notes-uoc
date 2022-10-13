@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6cd4438eb31aafa9",
+        "id": "93f5f1f227c72ed1",
         "type": "tabs",
         "children": [
           {
-            "id": "0b75a7b93d8f6e8c",
+            "id": "2c968bec13570911",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -73,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 437.5
+    "width": 468.5
   },
   "right": {
     "id": "15b8ee80c6becd06",
@@ -145,8 +145,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,17 +155,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "0b75a7b93d8f6e8c",
+  "active": "2c968bec13570911",
   "lastOpenFiles": [
+    "Organización.md",
+    "La naturaleza de la empresa.md",
     "Estudio vinculado a PEC1.md",
     "AGO - Administración y gestión de organizaciones/AGO - Actividades.md",
+    "LOG - Lógica/LOG - Actividades.md",
+    "AGO - Administración y gestión de organizaciones/AGO - Recursos/Conceptos básicos.pdf",
+    "AGO - Administración y gestión de organizaciones/AGO - Recursos/Bit 15.pdf",
+    "AGO - Administración y gestión de organizaciones/AGO - Recursos/Reto 1 - Tipificación y análisis de una organización.pdf",
     "AGO - Administración y gestión de organizaciones/AGO - Notas/Debate 1.md",
-    "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Recursos/Números.pdf",
-    "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Notas/1 - Números.md",
-    "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Actividades.md",
-    "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Evaluación.md",
-    "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Notas/Consejos para los cuestionarios.md",
-    "ZZZ - Calendario/2022-10-11 IMI - PP T1.md",
-    "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Contenidos.md"
+    "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Recursos/Números.pdf"
   ]
 }

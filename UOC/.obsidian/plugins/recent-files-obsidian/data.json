@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Organización",
+      "path": "Organización.md"
+    },
+    {
+      "basename": "La naturaleza de la empresa",
+      "path": "La naturaleza de la empresa.md"
+    },
+    {
       "basename": "Estudio vinculado a PEC1",
       "path": "Estudio vinculado a PEC1.md"
     },
     {
       "basename": "AGO - Actividades",
       "path": "AGO - Administración y gestión de organizaciones/AGO - Actividades.md"
+    },
+    {
+      "basename": "LOG - Actividades",
+      "path": "LOG - Lógica/LOG - Actividades.md"
+    },
+    {
+      "basename": "Conceptos básicos",
+      "path": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Conceptos básicos.pdf"
+    },
+    {
+      "basename": "Bit 15",
+      "path": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Bit 15.pdf"
+    },
+    {
+      "basename": "Reto 1 - Tipificación y análisis de una organización",
+      "path": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Reto 1 - Tipificación y análisis de una organización.pdf"
     },
     {
       "basename": "Debate 1",
@@ -31,10 +55,6 @@
     {
       "basename": "Lógica de enunciados",
       "path": "LOG - Lógica/LOG - Recursos/Lógica de enunciados.pdf"
-    },
-    {
-      "basename": "LOG - Actividades",
-      "path": "LOG - Lógica/LOG - Actividades.md"
     },
     {
       "basename": "LOG - Contenidos",
@@ -91,10 +111,6 @@
     {
       "basename": "2022-10-21 AGO - PEC1",
       "path": "ZZZ - Calendario/2022-10-21 AGO - PEC1.md"
-    },
-    {
-      "basename": "Reto 1 - Tipificación y análisis de una organización",
-      "path": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Reto 1 - Tipificación y análisis de una organización.pdf"
     },
     {
       "basename": "Bit 11",
@@ -183,18 +199,6 @@
     {
       "basename": "Books",
       "path": "Personal/Books.md"
-    },
-    {
-      "basename": "Números",
-      "path": "Learning/UOC/IMI - Iniciación a las matemáticas para la ingeniería/Recursos/Números.pdf"
-    },
-    {
-      "basename": "Administración y gestión de organizaciones",
-      "path": "Learning/UOC/AGO - Administración y gestión de organizaciones/Administración y gestión de organizaciones.md"
-    },
-    {
-      "basename": "Guía de estudio semanal",
-      "path": "Learning/UOC/Lógica/Recursos/Guía de estudio semanal.pdf"
     }
   ],
   "omittedPaths": [],
