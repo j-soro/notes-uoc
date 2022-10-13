@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "dc7ea74a8ab4118f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6cd4438eb31aafa9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b75a7b93d8f6e8c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dc94c2e43259372b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b70bd6c6abb5fc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7126268746ffba96",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "35ea906f06aee2a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#task",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b98f0e09356a4862",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "d13c88a370ee8cab",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 437.5
+  },
+  "right": {
+    "id": "15b8ee80c6becd06",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaebac7dfb3c0597",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f3055e13fcd06de",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ac65379371c0077f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "260d3fffd0b648e8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ac4db7e30000807",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c0d1c312ae71bfb5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2293bc04b78a0730",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 357.5,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "0b75a7b93d8f6e8c",
+  "lastOpenFiles": [
+    "Estudio vinculado a PEC1.md",
+    "AGO - Administración y gestión de organizaciones/AGO - Actividades.md",
+    "AGO - Administración y gestión de organizaciones/AGO - Notas/Debate 1.md",
+    "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Recursos/Números.pdf",
+    "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Notas/1 - Números.md",
+    "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Actividades.md",
+    "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Evaluación.md",
+    "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Notas/Consejos para los cuestionarios.md",
+    "ZZZ - Calendario/2022-10-11 IMI - PP T1.md",
+    "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Contenidos.md"
+  ]
+}
