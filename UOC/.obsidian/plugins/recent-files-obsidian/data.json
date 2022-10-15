@@ -5,12 +5,16 @@
       "path": "ZZZ - Calendario/2022-10-18 IMI - PP T2.md"
     },
     {
-      "basename": "Ecuaciones",
-      "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Recursos/Ecuaciones.pdf"
+      "basename": "Estudio vinculado a PEC1",
+      "path": "Estudio vinculado a PEC1.md"
     },
     {
       "basename": "IMI - Actividades",
       "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Actividades.md"
+    },
+    {
+      "basename": "Ecuaciones",
+      "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Recursos/Ecuaciones.pdf"
     },
     {
       "basename": "1 - Números",
@@ -23,10 +27,6 @@
     {
       "basename": "La naturaleza de la empresa",
       "path": "La naturaleza de la empresa.md"
-    },
-    {
-      "basename": "Estudio vinculado a PEC1",
-      "path": "Estudio vinculado a PEC1.md"
     },
     {
       "basename": "AGO - Actividades",
@@ -195,10 +195,6 @@
     {
       "basename": "CV advice",
       "path": "CV advice.md"
-    },
-    {
-      "basename": "Kanban",
-      "path": "Kanban.md"
     }
   ],
   "omittedPaths": [],

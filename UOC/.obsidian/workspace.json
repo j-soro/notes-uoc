@@ -4,35 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "35970338c2521d5c",
-        "type": "tabs",
-        "dimension": 78.51812366737741,
-        "children": [
-          {
-            "id": "9925c6f2ced159dc",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "93f5f1f227c72ed1",
         "type": "tabs",
-        "dimension": 21.4818763326226,
+        "dimension": 64.33901918976545,
         "children": [
           {
             "id": "3dfe3ed3968ccf77",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "pdf",
               "state": {
-                "file": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Actividades.md"
+                "file": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Recursos/Ecuaciones.pdf"
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "2d5f3b687841d1ef",
+        "type": "tabs",
+        "dimension": 35.66098081023454,
+        "children": [
           {
             "id": "d7d2b3bad460ba88",
             "type": "leaf",
@@ -45,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 468.5
+    "width": 468.5,
+    "collapsed": true
   },
   "right": {
     "id": "15b8ee80c6becd06",
@@ -190,17 +182,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9925c6f2ced159dc",
+  "active": "d7d2b3bad460ba88",
   "lastOpenFiles": [
-    "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Recursos/Ecuaciones.pdf",
+    "Estudio vinculado a PEC1.md",
     "ZZZ - Calendario/2022-10-18 IMI - PP T2.md",
     "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Actividades.md",
+    "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Recursos/Ecuaciones.pdf",
+    "Ecuaciones.md",
     "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Notas/1 - Números.md",
     "ZZZ - Calendario/2023-01-22 IMI - PEC2.md",
     "Organización.md",
     "La naturaleza de la empresa.md",
-    "Estudio vinculado a PEC1.md",
-    "AGO - Administración y gestión de organizaciones/AGO - Actividades.md",
-    "LOG - Lógica/LOG - Actividades.md"
+    "AGO - Administración y gestión de organizaciones/AGO - Actividades.md"
   ]
 }
