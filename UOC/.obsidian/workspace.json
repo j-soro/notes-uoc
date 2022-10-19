@@ -4,21 +4,10 @@
     "type": "split",
     "children": [
       {
-        "id": "f2341f23b5fdf8ea",
+        "id": "eeaf4d36caf055cb",
         "type": "tabs",
+        "dimension": 31.13006396588486,
         "children": [
-          {
-            "id": "20b36930dd4bb78f",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Enunciado PEC 1.pdf"
-              },
-              "pinned": true
-            }
-          },
           {
             "id": "3c85b17b2b985e81",
             "type": "leaf",
@@ -32,7 +21,33 @@
               },
               "pinned": true
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "f2341f23b5fdf8ea",
+        "type": "tabs",
+        "dimension": 36.62046908315565,
+        "children": [
+          {
+            "id": "20b36930dd4bb78f",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Enunciado PEC 1.pdf"
+              },
+              "pinned": true
+            }
+          }
+        ]
+      },
+      {
+        "id": "0489ae5dbabaeea3",
+        "type": "tabs",
+        "dimension": 32.24946695095949,
+        "children": [
           {
             "id": "f626efde8b2dab68",
             "type": "leaf",
@@ -45,8 +60,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AGO - Administración y gestión de organizaciones/AGO - Notas/Conceptos de organización y empresa.md",
+                "file": "AGO - Administración y gestión de organizaciones/AGO - Notas/Estudio vinculado a PEC1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AGO - Administración y gestión de organizaciones/AGO - Notas/Conceptos de organización y empresa.md",
+                "file": "AGO - Administración y gestión de organizaciones/AGO - Notas/Estudio vinculado a PEC1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AGO - Administración y gestión de organizaciones/AGO - Notas/Conceptos de organización y empresa.md"
+                "file": "AGO - Administración y gestión de organizaciones/AGO - Notas/Estudio vinculado a PEC1.md"
               }
             }
           }
@@ -203,16 +217,67 @@
             "type": "tabs",
             "children": [
               {
-                "id": "33a5d925232d1ca0",
+                "id": "b87aca88006a4e3a",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "pdf",
                   "state": {
                     "file": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Conceptos básicos.pdf"
-                  }
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "6c7f684faa78ce39",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Sistemas de información en la empresa.pdf"
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "305bdeb6ad6610bb",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Dirección y organización.pdf"
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "9214073bafefa141",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Bit 12.pdf"
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "1d4ed6768176cce6",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Areas funcionales.pdf"
+                  },
+                  "pinned": true
                 }
               }
-            ]
+            ],
+            "currentTab": 4
           }
         ],
         "direction": "vertical",
@@ -225,17 +290,17 @@
       }
     ]
   },
-  "active": "f626efde8b2dab68",
+  "active": "3c85b17b2b985e81",
   "lastOpenFiles": [
-    "AGO - Administración y gestión de organizaciones/AGO - Notas/Estudio vinculado a PEC1.md",
-    "AGO - Administración y gestión de organizaciones/AGO - Recursos/Enunciado PEC 1.pdf",
     "AGO - Administración y gestión de organizaciones/AGO - Notas/Conceptos de organización y empresa.md",
-    "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Actividades.md",
-    "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Evaluación.md",
-    "La naturaleza de la empresa.md",
-    "Organización.md",
+    "AGO - Administración y gestión de organizaciones/AGO - Recursos/Areas funcionales.pdf",
+    "AGO - Administración y gestión de organizaciones/AGO - Notas/Estudio vinculado a PEC1.md",
+    "AGO - Administración y gestión de organizaciones/AGO - Recursos/Bit 12.pdf",
+    "AGO - Administración y gestión de organizaciones/AGO - Recursos/Enunciado PEC 1.pdf",
+    "AGO - Administración y gestión de organizaciones/AGO - Recursos/Dirección y organización.pdf",
+    "AGO - Administración y gestión de organizaciones/AGO - Recursos/Sistemas de información en la empresa.pdf",
     "AGO - Administración y gestión de organizaciones/AGO - Recursos/Conceptos básicos.pdf",
     "AGO - Administración y gestión de organizaciones/AGO - Recursos/Reto 1 - Tipificación y análisis de una organización.pdf",
-    "AGO - Administración y gestión de organizaciones/AGO - Actividades.md"
+    "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Actividades.md"
   ]
 }

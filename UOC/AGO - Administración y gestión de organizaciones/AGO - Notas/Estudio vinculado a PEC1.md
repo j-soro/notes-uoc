@@ -35,7 +35,7 @@ Las dudas correspondientes a este PEC puedes comentarlas en la herramienta de Fo
 ## Recursos de aprendizaje
 + 1.1 Guía de aprendizaje - Reto 1: Tipificación y análisis de una organización. (pdf: [[Reto 1 - Tipificación y análisis de una organización.pdf]])
 + 1.2 Conceptos de empresa y organización, 1.5) Tipos de empresa (pdf: [[Conceptos básicos.pdf]])
-	+ 1.2 p. 5-9 apartado 1.2 [[La naturaleza de la empresa]]
+	+ 1.2 p. 5-9 apartado 1.2 
 	+ 2.4 p. 40-46 apartado 2.4
 + 1.3 Conceptos de empresa, páginas 27-36 (pdf: [[Sistemas de información en la empresa.pdf]])
 + 1.4 Definición de los objetivos empresariales, 1.8) Estructura de la empresa, 1.10) Dirección de la empresa (pdf: [[Dirección y organización.pdf]])

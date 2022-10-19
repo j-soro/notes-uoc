@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Estudio vinculado a PEC1",
+      "path": "AGO - Administración y gestión de organizaciones/AGO - Notas/Estudio vinculado a PEC1.md"
+    },
+    {
       "basename": "Conceptos de organización y empresa",
       "path": "AGO - Administración y gestión de organizaciones/AGO - Notas/Conceptos de organización y empresa.md"
     },
     {
-      "basename": "Estudio vinculado a PEC1",
-      "path": "AGO - Administración y gestión de organizaciones/AGO - Notas/Estudio vinculado a PEC1.md"
+      "basename": "Areas funcionales",
+      "path": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Areas funcionales.pdf"
+    },
+    {
+      "basename": "Bit 12",
+      "path": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Bit 12.pdf"
     },
     {
       "basename": "Enunciado PEC 1",
       "path": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Enunciado PEC 1.pdf"
     },
     {
-      "basename": "IMI - Actividades",
-      "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Actividades.md"
+      "basename": "Dirección y organización",
+      "path": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Dirección y organización.pdf"
     },
     {
-      "basename": "IMI - Evaluación",
-      "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Evaluación.md"
+      "basename": "Sistemas de información en la empresa",
+      "path": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Sistemas de información en la empresa.pdf"
     },
     {
       "basename": "Conceptos básicos",
@@ -27,6 +35,14 @@
     {
       "basename": "Reto 1 - Tipificación y análisis de una organización",
       "path": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Reto 1 - Tipificación y análisis de una organización.pdf"
+    },
+    {
+      "basename": "IMI - Actividades",
+      "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Actividades.md"
+    },
+    {
+      "basename": "IMI - Evaluación",
+      "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Evaluación.md"
     },
     {
       "basename": "AGO - Actividades",
@@ -183,14 +199,6 @@
     {
       "basename": "Argo",
       "path": "DWX/Argo.md"
-    },
-    {
-      "basename": "Apache Airflow",
-      "path": "DWX/Apache Airflow.md"
-    },
-    {
-      "basename": "Project ideas",
-      "path": "Project ideas.md"
     }
   ],
   "omittedPaths": [],
