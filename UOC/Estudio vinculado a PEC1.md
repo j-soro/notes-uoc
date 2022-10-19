@@ -1,6 +1,6 @@
 ## Planteamiento
 
-Las [[Organización |organizaciones]] tienen una actividad y objetivos, y en coherencia con ello tienen una misión, visión, estructura organizativa y liderazgo que las caracterizan. Se propone examinar la adecuación y coherencia de las características organizativas para el caso de una organización real.
+Las organizaciones tienen una actividad y objetivos, y en coherencia con ello tienen una misión, visión, estructura organizativa y liderazgo que las caracterizan. Se propone examinar la adecuación y coherencia de las características organizativas para el caso de una organización real.
 
 ## Enunciado de la actividad
 
@@ -23,6 +23,14 @@ Las dudas correspondientes a este PEC puedes comentarlas en la herramienta de Fo
 + Estructura de la empresa
 + Proyectos y estructuras organizativas
 + Dirección 
+
+## Objetivos
+1) [[Conceptos de organización y empresa |Explicar los conceptos de organización y empresa.]]
+2) Formular la misión, visión y objetivos de una organización.
+3) Identificar las diferentes áreas funcionales de las organizaciones.
+4) Clasificar las organizaciones en función del tipo de sector y actividad.
+5) Conocer los conceptos fundamentales de diseño organizativo y los modelos organizativos básicos.
+6) Distinguir entre liderazgo y dirección de organizaciones. 
 
 ## Recursos de aprendizaje
 + 1.1 Guía de aprendizaje - Reto 1: Tipificación y análisis de una organización. (pdf: [[Reto 1 - Tipificación y análisis de una organización.pdf]])

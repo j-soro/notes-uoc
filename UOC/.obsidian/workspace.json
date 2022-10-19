@@ -4,40 +4,49 @@
     "type": "split",
     "children": [
       {
-        "id": "93f5f1f227c72ed1",
+        "id": "f2341f23b5fdf8ea",
         "type": "tabs",
-        "dimension": 64.33901918976545,
         "children": [
           {
-            "id": "3dfe3ed3968ccf77",
+            "id": "20b36930dd4bb78f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "pdf",
               "state": {
-                "file": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Recursos/Ecuaciones.pdf"
-              }
+                "file": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Enunciado PEC 1.pdf"
+              },
+              "pinned": true
             }
-          }
-        ]
-      },
-      {
-        "id": "2d5f3b687841d1ef",
-        "type": "tabs",
-        "dimension": 35.66098081023454,
-        "children": [
+          },
           {
-            "id": "d7d2b3bad460ba88",
+            "id": "3c85b17b2b985e81",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudio vinculado a PEC1.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "f626efde8b2dab68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ZZZ - Calendario/2022-10-18 IMI - PP T2.md",
+                "file": "Conceptos de organización y empresa.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 468.5,
-    "collapsed": true
+    "width": 468.5
   },
   "right": {
     "id": "15b8ee80c6becd06",
@@ -112,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ZZZ - Calendario/2022-10-18 IMI - PP T2.md",
+                "file": "Estudio vinculado a PEC1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ZZZ - Calendario/2022-10-18 IMI - PP T2.md",
+                "file": "Estudio vinculado a PEC1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ZZZ - Calendario/2022-10-18 IMI - PP T2.md"
+                "file": "Estudio vinculado a PEC1.md"
               }
             }
           }
@@ -182,17 +190,52 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d7d2b3bad460ba88",
+  "floating": {
+    "id": "1c37035c0adf25a4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "a754c4f66f805db4",
+        "type": "window",
+        "children": [
+          {
+            "id": "82cf0dd0b867eda0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "33a5d925232d1ca0",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Conceptos básicos.pdf"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1885,
+        "y": 443,
+        "width": 704,
+        "height": 1001,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "3c85b17b2b985e81",
   "lastOpenFiles": [
-    "Estudio vinculado a PEC1.md",
-    "ZZZ - Calendario/2022-10-18 IMI - PP T2.md",
+    "AGO - Administración y gestión de organizaciones/AGO - Recursos/Enunciado PEC 1.pdf",
+    "Conceptos de organización y empresa.md",
     "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Actividades.md",
-    "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Recursos/Ecuaciones.pdf",
-    "Ecuaciones.md",
-    "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Notas/1 - Números.md",
-    "ZZZ - Calendario/2023-01-22 IMI - PEC2.md",
-    "Organización.md",
+    "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Evaluación.md",
+    "Estudio vinculado a PEC1.md",
     "La naturaleza de la empresa.md",
+    "Organización.md",
+    "AGO - Administración y gestión de organizaciones/AGO - Recursos/Conceptos básicos.pdf",
+    "AGO - Administración y gestión de organizaciones/AGO - Recursos/Reto 1 - Tipificación y análisis de una organización.pdf",
     "AGO - Administración y gestión de organizaciones/AGO - Actividades.md"
   ]
 }
