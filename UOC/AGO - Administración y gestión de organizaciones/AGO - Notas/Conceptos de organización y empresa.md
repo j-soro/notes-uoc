@@ -103,3 +103,5 @@ Importancia de la motivación del trabajador, dimensión humana del trabajador y
 ## Decisiones financieras ([[Areas funcionales.pdf]], p. 84-87)
 
 ![[AGO -.png]]
+
+## 
