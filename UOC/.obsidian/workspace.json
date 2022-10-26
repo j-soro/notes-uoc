@@ -4,57 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "eeaf4d36caf055cb",
+        "id": "489a9a42b4b85ee1",
         "type": "tabs",
-        "dimension": 25.85287846481876,
         "children": [
           {
-            "id": "3c85b17b2b985e81",
+            "id": "c19655eb31f6cfa0",
             "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AGO - Administración y gestión de organizaciones/AGO - Notas/Estudio vinculado a PEC1.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          }
-        ]
-      },
-      {
-        "id": "f2341f23b5fdf8ea",
-        "type": "tabs",
-        "dimension": 41.89765458422175,
-        "children": [
-          {
-            "id": "20b36930dd4bb78f",
-            "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "pdf",
               "state": {
-                "file": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Enunciado PEC 1.pdf"
-              },
-              "pinned": true
+                "file": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Recursos/Polinomios.pdf"
+              }
             }
           }
         ]
       },
       {
-        "id": "0489ae5dbabaeea3",
+        "id": "fd7a8d9ad5d480ab",
         "type": "tabs",
-        "dimension": 32.24946695095949,
         "children": [
           {
-            "id": "f626efde8b2dab68",
+            "id": "36dd8fd0a6a247a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AGO - Administración y gestión de organizaciones/AGO - Notas/Conceptos de organización y empresa.md",
+                "file": "Polinomios.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 468.5,
+    "width": 432.5,
     "collapsed": true
   },
   "right": {
@@ -135,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AGO - Administración y gestión de organizaciones/AGO - Notas/Conceptos de organización y empresa.md",
+                "file": "Polinomios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AGO - Administración y gestión de organizaciones/AGO - Notas/Conceptos de organización y empresa.md",
+                "file": "Polinomios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AGO - Administración y gestión de organizaciones/AGO - Notas/Conceptos de organización y empresa.md"
+                "file": "Polinomios.md"
               }
             }
           }
@@ -205,113 +180,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "floating": {
-    "id": "1c37035c0adf25a4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "a754c4f66f805db4",
-        "type": "window",
-        "children": [
-          {
-            "id": "82cf0dd0b867eda0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "b87aca88006a4e3a",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Conceptos básicos.pdf"
-                  },
-                  "pinned": true
-                }
-              },
-              {
-                "id": "6c7f684faa78ce39",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Sistemas de información en la empresa.pdf"
-                  },
-                  "pinned": true
-                }
-              },
-              {
-                "id": "305bdeb6ad6610bb",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Dirección y organización.pdf"
-                  },
-                  "pinned": true
-                }
-              },
-              {
-                "id": "9214073bafefa141",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Bit 12.pdf"
-                  },
-                  "pinned": true
-                }
-              },
-              {
-                "id": "1d4ed6768176cce6",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Areas funcionales.pdf"
-                  },
-                  "pinned": true
-                }
-              },
-              {
-                "id": "dd35854512edeeaa",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Bit 15.pdf"
-                  }
-                }
-              }
-            ],
-            "currentTab": 5
-          }
-        ],
-        "direction": "vertical",
-        "x": 1885,
-        "y": 443,
-        "width": 704,
-        "height": 1001,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "f626efde8b2dab68",
+  "active": "36dd8fd0a6a247a9",
   "lastOpenFiles": [
-    "AGO - Administración y gestión de organizaciones/AGO - Recursos/Bit 15.pdf",
+    "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Recursos/Polinomios.pdf",
+    "Polinomios.md",
+    "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Recursos/Sistemas de ecuaciones.pdf",
+    "LOG - Lógica/LOG - Recursos/Lógica de enunciados.pdf",
+    "LOG - Lógica/LOG - Notas/T1/Tipos de condiciones.md",
+    "LOG - Lógica/LOG - Recursos/Guía de estudio semanal.pdf",
+    "LOG - Lógica/LOG - Evaluación.md",
+    "LOG - Lógica/LOG - Recursos/Plan Docente.pdf",
     "AGO - Administración y gestión de organizaciones/AGO - Notas/Estudio vinculado a PEC1.md",
-    "AGO - Administración y gestión de organizaciones/AGO - Notas/Conceptos de organización y empresa.md",
-    "AGO - Administración y gestión de organizaciones/AGO - Recursos/Conceptos básicos.pdf",
-    "AGO - Administración y gestión de organizaciones/AGO - Recursos/Areas funcionales.pdf",
-    "AGO - Administración y gestión de organizaciones/AGO - Recursos/Bit 12.pdf",
-    "AGO - Administración y gestión de organizaciones/AGO - Recursos/Enunciado PEC 1.pdf",
-    "AGO - Administración y gestión de organizaciones/AGO - Recursos/Dirección y organización.pdf",
-    "AGO - Administración y gestión de organizaciones/AGO - Recursos/Sistemas de información en la empresa.pdf",
-    "AGO - Administración y gestión de organizaciones/AGO - Recursos/Reto 1 - Tipificación y análisis de una organización.pdf"
+    "AGO - Administración y gestión de organizaciones/AGO - Recursos/Enunciado PEC 1.pdf"
   ]
 }

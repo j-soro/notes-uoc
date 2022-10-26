@@ -1,20 +1,52 @@
 {
   "recentFiles": [
     {
-      "basename": "Conceptos de organización y empresa",
-      "path": "AGO - Administración y gestión de organizaciones/AGO - Notas/Conceptos de organización y empresa.md"
+      "basename": "Polinomios",
+      "path": "Polinomios.md"
     },
     {
-      "basename": "Bit 15",
-      "path": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Bit 15.pdf"
+      "basename": "Polinomios",
+      "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Recursos/Polinomios.pdf"
+    },
+    {
+      "basename": "Sistemas de ecuaciones",
+      "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Recursos/Sistemas de ecuaciones.pdf"
+    },
+    {
+      "basename": "Lógica de enunciados",
+      "path": "LOG - Lógica/LOG - Recursos/Lógica de enunciados.pdf"
+    },
+    {
+      "basename": "Tipos de condiciones",
+      "path": "LOG - Lógica/LOG - Notas/T1/Tipos de condiciones.md"
+    },
+    {
+      "basename": "Guía de estudio semanal",
+      "path": "LOG - Lógica/LOG - Recursos/Guía de estudio semanal.pdf"
+    },
+    {
+      "basename": "LOG - Evaluación",
+      "path": "LOG - Lógica/LOG - Evaluación.md"
+    },
+    {
+      "basename": "Plan Docente",
+      "path": "LOG - Lógica/LOG - Recursos/Plan Docente.pdf"
     },
     {
       "basename": "Estudio vinculado a PEC1",
       "path": "AGO - Administración y gestión de organizaciones/AGO - Notas/Estudio vinculado a PEC1.md"
     },
     {
-      "basename": "Conceptos básicos",
-      "path": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Conceptos básicos.pdf"
+      "basename": "Enunciado PEC 1",
+      "path": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Enunciado PEC 1.pdf"
+    },
+    {
+      "basename": "Conceptos de organización y empresa",
+      "path": "AGO - Administración y gestión de organizaciones/AGO - Notas/Conceptos de organización y empresa.md"
+    },
+    {
+      "basename": "Bit 15",
+      "path": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Bit 15.pdf"
     },
     {
       "basename": "Areas funcionales",
@@ -25,16 +57,16 @@
       "path": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Bit 12.pdf"
     },
     {
-      "basename": "Enunciado PEC 1",
-      "path": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Enunciado PEC 1.pdf"
-    },
-    {
-      "basename": "Dirección y organización",
-      "path": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Dirección y organización.pdf"
+      "basename": "Conceptos básicos",
+      "path": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Conceptos básicos.pdf"
     },
     {
       "basename": "Sistemas de información en la empresa",
       "path": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Sistemas de información en la empresa.pdf"
+    },
+    {
+      "basename": "Dirección y organización",
+      "path": "AGO - Administración y gestión de organizaciones/AGO - Recursos/Dirección y organización.pdf"
     },
     {
       "basename": "Reto 1 - Tipificación y análisis de una organización",
@@ -77,16 +109,8 @@
       "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Recursos/Números.pdf"
     },
     {
-      "basename": "Lógica de enunciados",
-      "path": "LOG - Lógica/LOG - Recursos/Lógica de enunciados.pdf"
-    },
-    {
       "basename": "LOG - Contenidos",
       "path": "LOG - Lógica/LOG - Contenidos.md"
-    },
-    {
-      "basename": "Guía de estudio semanal",
-      "path": "LOG - Lógica/LOG - Recursos/Guía de estudio semanal.pdf"
     },
     {
       "basename": "Contenidos",
@@ -153,16 +177,8 @@
       "path": "IMI - Iniciación a las matemáticas para la ingeniería/Información.md"
     },
     {
-      "basename": "LOG - Evaluación",
-      "path": "LOG - Lógica/LOG - Evaluación.md"
-    },
-    {
       "basename": "LOG - Información",
       "path": "LOG - Lógica/LOG - Información.md"
-    },
-    {
-      "basename": "Plan Docente",
-      "path": "LOG - Lógica/LOG - Recursos/Plan Docente.pdf"
     },
     {
       "basename": "Lógica y Álgebra de Boole",
@@ -183,22 +199,6 @@
     {
       "basename": "Reto 1 - Tipificación y análisis de una organización",
       "path": "Learning/UOC/AGO - Administración y gestión de organizaciones/Recursos/Reto 1 - Tipificación y análisis de una organización.pdf"
-    },
-    {
-      "basename": "Update your app",
-      "path": "DWX/Update your app.md"
-    },
-    {
-      "basename": "Dungeon Synth & Ambient",
-      "path": "Music/Dungeon Synth & Ambient.md"
-    },
-    {
-      "basename": "Create a Kubernetes Cluster",
-      "path": "DWX/Create a Kubernetes Cluster.md"
-    },
-    {
-      "basename": "Argo",
-      "path": "DWX/Argo.md"
     }
   ],
   "omittedPaths": [],
