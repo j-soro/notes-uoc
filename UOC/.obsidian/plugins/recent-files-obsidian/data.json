@@ -5,6 +5,10 @@
       "path": "Polinomios.md"
     },
     {
+      "basename": "Tutorial",
+      "path": "Tutorial.md"
+    },
+    {
       "basename": "Polinomios",
       "path": "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Recursos/Polinomios.pdf"
     },
@@ -127,10 +131,6 @@
     {
       "basename": "AGO - Contenidos",
       "path": "AGO - Administración y gestión de organizaciones/AGO - Contenidos.md"
-    },
-    {
-      "basename": "Tutorial",
-      "path": "Tutorial.md"
     },
     {
       "basename": "2022-10-11 IMI - PP T1",

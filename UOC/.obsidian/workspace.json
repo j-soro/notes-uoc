@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432.5,
-    "collapsed": true
+    "width": 432.5
   },
   "right": {
     "id": "15b8ee80c6becd06",
@@ -177,20 +176,17 @@
     "width": 357.5,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
   "active": "36dd8fd0a6a247a9",
   "lastOpenFiles": [
-    "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Recursos/Polinomios.pdf",
+    "Tutorial.md",
     "Polinomios.md",
+    "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Recursos/Polinomios.pdf",
     "IMI - Iniciación a las matemáticas para la ingeniería/IMI - Recursos/Sistemas de ecuaciones.pdf",
     "LOG - Lógica/LOG - Recursos/Lógica de enunciados.pdf",
     "LOG - Lógica/LOG - Notas/T1/Tipos de condiciones.md",
     "LOG - Lógica/LOG - Recursos/Guía de estudio semanal.pdf",
     "LOG - Lógica/LOG - Evaluación.md",
     "LOG - Lógica/LOG - Recursos/Plan Docente.pdf",
-    "AGO - Administración y gestión de organizaciones/AGO - Notas/Estudio vinculado a PEC1.md",
-    "AGO - Administración y gestión de organizaciones/AGO - Recursos/Enunciado PEC 1.pdf"
+    "AGO - Administración y gestión de organizaciones/AGO - Notas/Estudio vinculado a PEC1.md"
   ]
 }
